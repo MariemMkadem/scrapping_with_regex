@@ -1,0 +1,6227 @@
+[
+  {
+    "title": "Avengers Avengers: Endgame",
+    "year": 2019,
+    "runtime": 181,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to undo Thanos' actions and restore order to the universe.",
+    "rating": 8.9,
+    "metascore": 78,
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "stars": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth"
+    ],
+    "votes": 331589,
+    "gross": 473.89
+  },
+  {
+    "title": "Game of Thrones",
+    "year": 2011,
+    "runtime": 57,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for thousands of years.",
+    "rating": 9.5,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Emilia Clarke",
+      "Peter Dinklage",
+      "Kit Harington",
+      "Lena Headey"
+    ],
+    "votes": 1468934,
+    "gross": null
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "runtime": 149,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "rating": 8.5,
+    "metascore": 68,
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "stars": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans"
+    ],
+    "votes": 645864,
+    "gross": 678.82
+  },
+  {
+    "title": "Captain Marvel",
+    "year": 2019,
+    "runtime": 123,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+    "rating": 7.1,
+    "metascore": 64,
+    "directors": [
+      "Anna Boden",
+      "Ryan Fleck"
+    ],
+    "stars": [
+      "Brie Larson",
+      "Samuel L. Jackson",
+      "Ben Mendelsohn",
+      "Jude Law"
+    ],
+    "votes": 253246,
+    "gross": 416.49
+  },
+  {
+    "title": "Shazam!",
+    "year": 2019,
+    "runtime": 132,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "We all have a superhero inside us, it just takes a bit of magic to bring it out. In Billy Batson's case, by shouting out one word - SHAZAM. - this streetwise fourteen-year-old foster kid can turn into the grown-up superhero Shazam.",
+    "rating": 7.5,
+    "metascore": 71,
+    "directors": [
+      "David F. Sandberg",
+      ""
+    ],
+    "stars": [
+      "Zachary Levi",
+      "Mark Strong",
+      "Asher Angel",
+      "Jack Dylan Grazer"
+    ],
+    "votes": 88663,
+    "gross": 132.74
+  },
+  {
+    "title": "Gemini Man",
+    "year": 2019,
+    "runtime": null,
+    "genre": [
+      "Action",
+      "Drama",
+      "Sci"
+    ],
+    "description": "An over-the-hill hitman faces off against a younger clone of himself.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Ang Lee",
+      ""
+    ],
+    "stars": [
+      "Mary Elizabeth Winstead",
+      "Will Smith",
+      "Benedict Wong",
+      "Clive Owen"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "After",
+    "year": 2019,
+    "runtime": 105,
+    "genre": [
+      "Drama",
+      "Romance",
+      ""
+    ],
+    "description": "A young woman falls for a guy with a dark secret and the two embark on a rocky relationship. Based on the novel by Anna Todd.",
+    "rating": 5.7,
+    "metascore": 30,
+    "directors": [
+      "Jenny Gage",
+      ""
+    ],
+    "stars": [
+      "Hero Fiennes Tiffin",
+      "Josephine Langford",
+      "Selma Blair",
+      "Jennifer Beals"
+    ],
+    "votes": 6389,
+    "gross": 11.83
+  },
+  {
+    "title": "The Curse of La Llorona",
+    "year": 2019,
+    "runtime": 93,
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": "Ignoring the eerie warning of a troubled mother suspected of child endangerment, a social worker and her own small kids are soon drawn into a frightening supernatural realm.",
+    "rating": 5.7,
+    "metascore": 41,
+    "directors": [
+      "Michael Chaves",
+      ""
+    ],
+    "stars": [
+      "Linda Cardellini",
+      "Raymond Cruz",
+      "Patricia Velasquez",
+      "Marisol Ramirez"
+    ],
+    "votes": 8369,
+    "gross": 44.6
+  },
+  {
+    "title": "Gotham",
+    "year": 2014,
+    "runtime": 42,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+    "rating": 7.9,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Ben McKenzie",
+      "Jada Pinkett Smith",
+      "Donal Logue",
+      "Camren Bicondova"
+    ],
+    "votes": 193467,
+    "gross": null
+  },
+  {
+    "title": "Hellboy",
+    "year": 2019,
+    "runtime": 120,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "Based on the graphic novels by Mike Mignola, Hellboy, caught between the worlds of the supernatural and human, battles an ancient sorceress bent on revenge.",
+    "rating": 5.4,
+    "metascore": 31,
+    "directors": [
+      "Neil Marshall",
+      ""
+    ],
+    "stars": [
+      "David Harbour",
+      "Milla Jovovich",
+      "Ian McShane",
+      "Sasha Lane"
+    ],
+    "votes": 17508,
+    "gross": 21.73
+  },
+  {
+    "title": "Bosch",
+    "year": 2014,
+    "runtime": 51,
+    "genre": [
+      "Crime",
+      "Drama",
+      ""
+    ],
+    "description": "An L.A.P.D. homicide detective works to solve the murder of a thirteen-year-old boy while standing trial in federal court for the murder of a serial killer.",
+    "rating": 8.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Titus Welliver",
+      "Jamie Hector",
+      "Amy Aquino",
+      "Lance Reddick"
+    ],
+    "votes": 32415,
+    "gross": null
+  },
+  {
+    "title": "Arctic",
+    "year": 2018,
+    "runtime": 98,
+    "genre": [
+      "Adventure",
+      "Drama",
+      ""
+    ],
+    "description": "A man stranded in the Arctic after an airplane crash must decide whether to remain in the relative safety of his makeshift camp or to embark on a deadly trek through the unknown.",
+    "rating": 6.9,
+    "metascore": 71,
+    "directors": [
+      "Joe Penna",
+      ""
+    ],
+    "stars": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "votes": 13270,
+    "gross": 2.4
+  },
+  {
+    "title": "The Act",
+    "year": 2019,
+    "runtime": 60,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "description": "An anthology series that tells startling, stranger-than-fiction true crime stories, including a girl trying to escape her overprotective and abusive mother.",
+    "rating": 8.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Patricia Arquette",
+      "Joey King",
+      "Calum Worthy",
+      "Chloë Sevigny"
+    ],
+    "votes": 5553,
+    "gross": null
+  },
+  {
+    "title": "Star Trek: Discovery",
+    "year": 2017,
+    "runtime": 60,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "Ten years before Kirk, Spock, and the Enterprise, the USS Discovery discovers new worlds and lifeforms as one Starfleet officer learns to understand all things alien.",
+    "rating": 7.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Sonequa Martin-Green",
+      "Doug Jones",
+      "Anthony Rapp",
+      "Mary Wiseman"
+    ],
+    "votes": 69152,
+    "gross": null
+  },
+  {
+    "title": "Men in Black: International",
+    "year": 2019,
+    "runtime": null,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Sci"
+    ],
+    "description": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest threat to date: a mole in the Men in Black organization.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "F. Gary Gray",
+      ""
+    ],
+    "stars": [
+      "Chris Hemsworth",
+      "Tessa Thompson",
+      "Rebecca Ferguson",
+      "Liam Neeson"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Someone Great",
+    "year": 2019,
+    "runtime": 92,
+    "genre": [
+      "Comedy",
+      "Romance",
+      ""
+    ],
+    "description": "After a devastating break up on the eve of her cross-country move, Jenny enjoys one last NYC adventure with her two best pals. Someone Great is a romantic comedy about love, loss, growth and the everlasting bond of female friendship.",
+    "rating": 6.1,
+    "metascore": 63,
+    "directors": [
+      "Jennifer Kaytin Robinson",
+      ""
+    ],
+    "stars": [
+      "Gina Rodriguez",
+      "LaKeith Stanfield",
+      "Brittany Snow",
+      "DeWanda Wise"
+    ],
+    "votes": 6140,
+    "gross": null
+  },
+  {
+    "title": "Cobra Kai",
+    "year": 2018,
+    "runtime": 30,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "description": "Decades after their 1984 All Valley Karate Tournament bout, a middle-aged Daniel LaRusso and Johnny Lawrence find themselves martial-arts rivals again.",
+    "rating": 8.9,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Ralph Macchio",
+      "William Zabka",
+      "Tanner Buchanan",
+      "Courtney Henggeler"
+    ],
+    "votes": 30550,
+    "gross": null
+  },
+  {
+    "title": "Line of Duty",
+    "year": 2012,
+    "runtime": 60,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "DS Steve Arnott is transferred to the police anti-corruption unit after the death of a man in a mistaken shooting during a counter-terrorist operation.",
+    "rating": 8.6,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Martin Compston",
+      "Vicky McClure",
+      "Adrian Dunbar",
+      "Craig Parkinson"
+    ],
+    "votes": 18659,
+    "gross": null
+  },
+  {
+    "title": "The Walking Dead",
+    "year": 2010,
+    "runtime": 44,
+    "genre": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "description": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins, and must lead a group of survivors to stay alive.",
+    "rating": 8.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Andrew Lincoln",
+      "Norman Reedus",
+      "Melissa McBride",
+      "Lauren Cohan"
+    ],
+    "votes": 781989,
+    "gross": null
+  },
+  {
+    "title": "Bonding",
+    "year": 2019,
+    "runtime": 107,
+    "genre": [
+      "Comedy",
+      "Drama",
+      ""
+    ],
+    "description": "A New York City grad student moonlighting as a dominatrix enlists her gay BFF from high school to be her assistant.",
+    "rating": 7.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Zoe Levin",
+      "Brendan Scannell",
+      "Kevin Kane",
+      "Micah Stock"
+    ],
+    "votes": 4522,
+    "gross": null
+  },
+  {
+    "title": "Black Summer",
+    "year": 2019,
+    "runtime": 40,
+    "genre": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "description": "A mother searches for her daughter after civilization collapses due to a Zombie outbreak.",
+    "rating": 6.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Jaime King",
+      "Justin Chu Cary",
+      "Christine Lee",
+      "Sal Velez Jr."
+    ],
+    "votes": 11189,
+    "gross": null
+  },
+  {
+    "title": "Lucifer",
+    "year": 2015,
+    "runtime": 42,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "description": "Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.",
+    "rating": 8.2,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Tom Ellis",
+      "Lauren German",
+      "Kevin Alejandro",
+      "D.B. Woodside"
+    ],
+    "votes": 138953,
+    "gross": null
+  },
+  {
+    "title": "Supernatural",
+    "year": 2005,
+    "runtime": 44,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "description": "Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.",
+    "rating": 8.5,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Jared Padalecki",
+      "Jensen Ackles",
+      "Jim Beaver",
+      "Misha Collins"
+    ],
+    "votes": 350407,
+    "gross": null
+  },
+  {
+    "title": "Glass",
+    "year": 2019,
+    "runtime": 129,
+    "genre": [
+      "Drama",
+      "Sci",
+      ""
+    ],
+    "description": "Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities.",
+    "rating": 6.8,
+    "metascore": 42,
+    "directors": [
+      "M. Night Shyamalan",
+      ""
+    ],
+    "stars": [
+      "James McAvoy",
+      "Bruce Willis",
+      "Samuel L. Jackson",
+      "Anya Taylor-Joy"
+    ],
+    "votes": 116137,
+    "gross": 111.04
+  },
+  {
+    "title": "Chilling Adventures of Sabrina",
+    "year": 2018,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "description": "As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic.",
+    "rating": 7.8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Kiernan Shipka",
+      "Ross Lynch",
+      "Lucy Davis",
+      "Chance Perdomo"
+    ],
+    "votes": 46762,
+    "gross": null
+  },
+  {
+    "title": "Grey's Anatomy",
+    "year": 2005,
+    "runtime": 41,
+    "genre": [
+      "Drama",
+      "Romance",
+      ""
+    ],
+    "description": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
+    "rating": 7.6,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Justin Chambers",
+      "Ellen Pompeo",
+      "Chandra Wilson",
+      "James Pickens Jr."
+    ],
+    "votes": 210847,
+    "gross": null
+  },
+  {
+    "title": "Aquaman",
+    "year": 2018,
+    "runtime": 143,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+    "rating": 7.1,
+    "metascore": 55,
+    "directors": [
+      "James Wan",
+      ""
+    ],
+    "stars": [
+      "Jason Momoa",
+      "Amber Heard",
+      "Willem Dafoe",
+      "Patrick Wilson"
+    ],
+    "votes": 245696,
+    "gross": 335.06
+  },
+  {
+    "title": "BlacKkKlansman",
+    "year": 2018,
+    "runtime": 135,
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Ron Stallworth, an African American police officer from Colorado Springs, CO, successfully manages to infiltrate the local Ku Klux Klan branch with the help of a Jewish surrogate who eventually becomes its leader. Based on actual events.",
+    "rating": 7.5,
+    "metascore": 83,
+    "directors": [
+      "Spike Lee",
+      ""
+    ],
+    "stars": [
+      "John David Washington",
+      "Adam Driver",
+      "Laura Harrier",
+      "Topher Grace"
+    ],
+    "votes": 140059,
+    "gross": 48.69
+  },
+  {
+    "title": "The Ten Commandments",
+    "year": 1956,
+    "runtime": 220,
+    "genre": [
+      "Adventure",
+      "Drama",
+      ""
+    ],
+    "description": "The Egyptian Prince, Moses, learns of his true heritage as a Hebrew and his divine mission as the deliverer of his people.",
+    "rating": 7.9,
+    "metascore": null,
+    "directors": [
+      "Cecil B. DeMille",
+      ""
+    ],
+    "stars": [
+      "Charlton Heston",
+      "Yul Brynner",
+      "Anne Baxter",
+      "Edward G. Robinson"
+    ],
+    "votes": 57357,
+    "gross": 93.74
+  },
+  {
+    "title": "Killing Eve",
+    "year": 2018,
+    "runtime": 43,
+    "genre": [
+      "Drama",
+      "Thriller",
+      ""
+    ],
+    "description": "After a series of events, the lives of a security operative and an assassin become inextricably linked.",
+    "rating": 8.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Sandra Oh",
+      "Jodie Comer",
+      "Fiona Shaw",
+      "Kim Bodnia"
+    ],
+    "votes": 36798,
+    "gross": null
+  },
+  {
+    "title": "High Life",
+    "year": 2018,
+    "runtime": 113,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "A father and his daughter struggle to survive in deep space where they live in isolation.",
+    "rating": 6,
+    "metascore": 75,
+    "directors": [
+      "Claire Denis",
+      ""
+    ],
+    "stars": [
+      "Robert Pattinson",
+      "Juliette Binoche",
+      "André Benjamin",
+      "Mia Goth"
+    ],
+    "votes": 7103,
+    "gross": 1.01
+  },
+  {
+    "title": "The Orville",
+    "year": 2017,
+    "runtime": 44,
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "description": "An exploratory ship from Earth faces intergalactic challenges 400 years in the future.",
+    "rating": 8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Seth MacFarlane",
+      "Adrianne Palicki",
+      "Penny Johnson Jerald",
+      "Scott Grimes"
+    ],
+    "votes": 48006,
+    "gross": null
+  },
+  {
+    "title": "Godzilla: King of the Monsters",
+    "year": 2019,
+    "runtime": 132,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Michael Dougherty",
+      ""
+    ],
+    "stars": [
+      "Millie Bobby Brown",
+      "Lexi Rabe",
+      "Sally Hawkins",
+      "Charles Dance"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "The Blacklist",
+    "year": 2013,
+    "runtime": 43,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.",
+    "rating": 8.1,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "James Spader",
+      "Megan Boone",
+      "Diego Klattenhoff",
+      "Ryan Eggold"
+    ],
+    "votes": 157115,
+    "gross": null
+  },
+  {
+    "title": "The Big Bang Theory",
+    "year": 2007,
+    "runtime": 22,
+    "genre": [
+      "Comedy",
+      "Romance",
+      ""
+    ],
+    "description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+    "rating": 8.2,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Johnny Galecki",
+      "Jim Parsons",
+      "Kaley Cuoco",
+      "Simon Helberg"
+    ],
+    "votes": 641701,
+    "gross": null
+  },
+  {
+    "title": "The Flash",
+    "year": 2014,
+    "runtime": 43,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the Flash, fighting crime in Central City.",
+    "rating": 7.9,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Grant Gustin",
+      "Candice Patton",
+      "Danielle Panabaker",
+      "Carlos Valdes"
+    ],
+    "votes": 273992,
+    "gross": null
+  },
+  {
+    "title": "Dark Phoenix",
+    "year": 2019,
+    "runtime": 114,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix. Now the X-Men will have to decide if the life of a team member is worth more than all the people living in the world.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Simon Kinberg",
+      ""
+    ],
+    "stars": [
+      "Sophie Turner",
+      "Jennifer Lawrence",
+      "Nicholas Hoult",
+      "James McAvoy"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "The Silence",
+    "year": 2019,
+    "runtime": 90,
+    "genre": [
+      "Horror",
+      "Thriller",
+      ""
+    ],
+    "description": "When the world is under attack from terrifying creatures who hunt their human prey by sound, 16-year old Ally Andrews (Kiernan Shipka), who lost her hearing at 13, and her family seek refuge in a remote haven.",
+    "rating": 5.2,
+    "metascore": 25,
+    "directors": [
+      "John R. Leonetti",
+      ""
+    ],
+    "stars": [
+      "Stanley Tucci",
+      "Kiernan Shipka",
+      "Miranda Otto",
+      "Kate Trotter"
+    ],
+    "votes": 18518,
+    "gross": null
+  },
+  {
+    "title": "Spider-Man: Far from Home",
+    "year": 2019,
+    "runtime": null,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "Peter Parker and his friends go on a European vacation, where Peter finds himself agreeing to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Jon Watts",
+      ""
+    ],
+    "stars": [
+      "Tom Holland",
+      "Zendaya",
+      "Jon Favreau",
+      "Cobie Smulders"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Star Wars: The Rise of Skywalker",
+    "year": 2019,
+    "runtime": null,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "The surviving Resistance faces the First Order once more in the final chapter of the Skywalker saga.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "J.J. Abrams",
+      ""
+    ],
+    "stars": [
+      "Daisy Ridley",
+      "Domhnall Gleeson",
+      "Joonas Suotamo",
+      "Adam Driver"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Vikings",
+    "year": 2013,
+    "runtime": 44,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean.",
+    "rating": 8.6,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Gustaf Skarsgård",
+      "Katheryn Winnick",
+      "Alexander Ludwig",
+      "Travis Fimmel"
+    ],
+    "votes": 334691,
+    "gross": null
+  },
+  {
+    "title": "The OA",
+    "year": 2016,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "description": "Having gone missing seven years ago, the previously blind Prairie returns home, now in her twenties with her sight restored. While many believe she is a miracle, others worry that she could be dangerous.",
+    "rating": 7.8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Brit Marling",
+      "Jason Isaacs",
+      "Scott Wilson",
+      "Alice Krige"
+    ],
+    "votes": 71069,
+    "gross": null
+  },
+  {
+    "title": "Pet Sematary",
+    "year": 2019,
+    "runtime": 101,
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": "Dr. Louis Creed and his wife, Rachel, relocate from Boston to rural Maine with their two young children. The couple soon discover a mysterious burial ground hidden deep in the woods near their new home.",
+    "rating": 6.1,
+    "metascore": 57,
+    "directors": [
+      "Kevin Kölsch",
+      "Dennis Widmyer"
+    ],
+    "stars": [
+      "Jason Clarke",
+      "Amy Seimetz",
+      "John Lithgow",
+      "Jeté Laurence"
+    ],
+    "votes": 24979,
+    "gross": 53.26
+  },
+  {
+    "title": "Fast & Furious Presents: Hobbs & Shaw",
+    "year": 2019,
+    "runtime": null,
+    "genre": [
+      "Action",
+      "Adventure",
+      ""
+    ],
+    "description": "Lawman Luke Hobbs and outcast Deckard Shaw form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "David Leitch",
+      ""
+    ],
+    "stars": [
+      "Dwayne Johnson",
+      "Idris Elba",
+      "Vanessa Kirby",
+      "Eiza González"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Riverdale",
+    "year": 2017,
+    "runtime": 45,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "While navigating the troubled waters of romance, school and family, Archie and his gang become entangled in dark Riverdale mysteries.",
+    "rating": 7.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "K.J. Apa",
+      "Lili Reinhart",
+      "Camila Mendes",
+      "Cole Sprouse"
+    ],
+    "votes": 85368,
+    "gross": null
+  },
+  {
+    "title": "Us",
+    "year": 2019,
+    "runtime": 116,
+    "genre": [
+      "Horror",
+      "Thriller",
+      ""
+    ],
+    "description": "A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.",
+    "rating": 7.3,
+    "metascore": 81,
+    "directors": [
+      "Jordan Peele",
+      ""
+    ],
+    "stars": [
+      "Lupita Nyong'o",
+      "Winston Duke",
+      "Elisabeth Moss",
+      "Tim Heidecker"
+    ],
+    "votes": 75456,
+    "gross": 173.42
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "year": 2015,
+    "runtime": 141,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+    "rating": 7.3,
+    "metascore": 66,
+    "directors": [
+      "Joss Whedon",
+      ""
+    ],
+    "stars": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth"
+    ],
+    "votes": 653817,
+    "gross": 459.01
+  },
+  {
+    "title": "The Avengers",
+    "year": 2012,
+    "runtime": 143,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "rating": 8.1,
+    "metascore": 69,
+    "directors": [
+      "Joss Whedon",
+      ""
+    ],
+    "stars": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Jeremy Renner"
+    ],
+    "votes": 1172705,
+    "gross": 623.36
+  },
+  {
+    "title": "Brooklyn Nine-Nine",
+    "year": 2013,
+    "runtime": 22,
+    "genre": [
+      "Comedy",
+      "Crime",
+      ""
+    ],
+    "description": "Jake Peralta, an immature, but talented N.Y.P.D. detective in Brooklyn's 99th Precinct, comes into immediate conflict with his new commanding officer, the serious and stern Captain Ray Holt.",
+    "rating": 8.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Andy Samberg",
+      "Stephanie Beatriz",
+      "Terry Crews",
+      "Melissa Fumero"
+    ],
+    "votes": 144866,
+    "gross": null
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "description": "Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities.",
+    "rating": 8.5,
+    "metascore": 87,
+    "directors": [
+      "Bob Persichetti",
+      "Peter Ramsey"
+    ],
+    "stars": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali"
+    ],
+    "votes": 192163,
+    "gross": 190.24
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "year": 2017,
+    "runtime": 130,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+    "rating": 7.9,
+    "metascore": 74,
+    "directors": [
+      "Taika Waititi",
+      ""
+    ],
+    "stars": [
+      "Chris Hemsworth",
+      "Tom Hiddleston",
+      "Cate Blanchett",
+      "Mark Ruffalo"
+    ],
+    "votes": 467243,
+    "gross": 315.06
+  },
+  {
+    "title": "American Gods",
+    "year": 2017,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "description": "A recently released ex-convict named Shadow meets a mysterious man who calls himself \"Wednesday\" and who knows more than he first seems to about Shadow's life and past.",
+    "rating": 8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Ricky Whittle",
+      "Emily Browning",
+      "Crispin Glover",
+      "Yetide Badaki"
+    ],
+    "votes": 60626,
+    "gross": null
+  },
+  {
+    "title": "The Highwaymen",
+    "year": 2019,
+    "runtime": 132,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "A pair of Texas Rangers come out of retirement to catch the infamous outlaws Bonnie and Clyde.",
+    "rating": 7,
+    "metascore": 58,
+    "directors": [
+      "John Lee Hancock",
+      ""
+    ],
+    "stars": [
+      "Kevin Costner",
+      "Woody Harrelson",
+      "Kathy Bates",
+      "John Carroll Lynch"
+    ],
+    "votes": 37533,
+    "gross": null
+  },
+  {
+    "title": "Child's Play",
+    "year": 2019,
+    "runtime": 120,
+    "genre": [
+      "Horror",
+      "",
+      ""
+    ],
+    "description": "A mother gives her son a toy doll for his birthday, unaware of its more sinister nature.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Lars Klevberg",
+      ""
+    ],
+    "stars": [
+      "Aubrey Plaza",
+      "Mark Hamill",
+      "Tim Matheson",
+      "Brian Tyree Henry"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Long Shot",
+    "year": 2019,
+    "runtime": 125,
+    "genre": [
+      "Comedy",
+      "Romance",
+      ""
+    ],
+    "description": "When Fred Flarsky reunites with his first crush, one of the most influential women in the world, Charlotte Field, he charms her. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter and sparks fly.",
+    "rating": 7.2,
+    "metascore": 70,
+    "directors": [
+      "Jonathan Levine",
+      ""
+    ],
+    "stars": [
+      "Charlize Theron",
+      "Seth Rogen",
+      "June Diane Raphael",
+      "O'Shea Jackson Jr."
+    ],
+    "votes": 3610,
+    "gross": null
+  },
+  {
+    "title": "The Umbrella Academy",
+    "year": 2019,
+    "runtime": 60,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "A disbanded group of superheroes reunites after their adoptive father, who trained them to save the world, dies.",
+    "rating": 8.1,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Ellen Page",
+      "Tom Hopper",
+      "David Castañeda",
+      "Emmy Raver-Lampman"
+    ],
+    "votes": 64761,
+    "gross": null
+  },
+  {
+    "title": "The Mandalorian",
+    "year": 2019,
+    "runtime": 60,
+    "genre": [
+      "Fantasy",
+      "Sci",
+      ""
+    ],
+    "description": "The travails of a lone gunfighter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Pedro Pascal",
+      "Jamal Antar",
+      "Bernard Bullen",
+      "Omid Abtahi"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Billions",
+    "year": 2016,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "",
+      ""
+    ],
+    "description": "U.S. Attorney Chuck Rhoades goes after hedge fund king Bobby \"Axe\" Axelrod in a battle between two powerful New York figures.",
+    "rating": 8.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Paul Giamatti",
+      "Damian Lewis",
+      "Maggie Siff",
+      "Toby Leonard Moore"
+    ],
+    "votes": 53285,
+    "gross": null
+  },
+  {
+    "title": "Lunatics",
+    "year": 2019,
+    "runtime": 35,
+    "genre": [
+      "Comedy",
+      "",
+      ""
+    ],
+    "description": "This mockumentary series follows the peculiar lives of six eccentric - and sometimes obscene - misfits who march to their own beat.",
+    "rating": 6.5,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Chris Lilley",
+      "Judi Young",
+      "Leena Arora",
+      "Anne McCaffery-French"
+    ],
+    "votes": 1545,
+    "gross": null
+  },
+  {
+    "title": "Kalank",
+    "year": 2019,
+    "runtime": 166,
+    "genre": [
+      "Drama",
+      "Romance",
+      ""
+    ],
+    "description": "The lives of six enigmatic characters become entangled whilst in search of love, but separated by the dichotomy between the two worlds of Husnabad, a town in North India.",
+    "rating": 3.7,
+    "metascore": null,
+    "directors": [
+      "Abhishek Varman",
+      ""
+    ],
+    "stars": [
+      "Varun Dhawan",
+      "Alia Bhatt",
+      "Aditya Roy Kapoor",
+      "Madhuri Dixit"
+    ],
+    "votes": 6716,
+    "gross": 2.62
+  },
+  {
+    "title": "Aladdin",
+    "year": 2019,
+    "runtime": 128,
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "description": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Guy Ritchie",
+      ""
+    ],
+    "stars": [
+      "Naomi Scott",
+      "Will Smith",
+      "Billy Magnussen",
+      "Mena Massoud"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "The Office",
+    "year": 2005,
+    "runtime": 22,
+    "genre": [
+      "Comedy",
+      "",
+      ""
+    ],
+    "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+    "rating": 8.8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Steve Carell",
+      "Jenna Fischer",
+      "John Krasinski",
+      "Rainn Wilson"
+    ],
+    "votes": 291921,
+    "gross": null
+  },
+  {
+    "title": "Arrow",
+    "year": 2012,
+    "runtime": 42,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "description": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+    "rating": 7.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Stephen Amell",
+      "Katie Cassidy",
+      "David Ramsey",
+      "Susanna Thompson"
+    ],
+    "votes": 377606,
+    "gross": null
+  },
+  {
+    "title": "Peaky Blinders",
+    "year": 2013,
+    "runtime": 60,
+    "genre": [
+      "Crime",
+      "Drama",
+      ""
+    ],
+    "description": "A gangster family epic set in 1919 Birmingham, England; centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+    "rating": 8.8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Cillian Murphy",
+      "Helen McCrory",
+      "Paul Anderson",
+      "Sophie Rundle"
+    ],
+    "votes": 189585,
+    "gross": null
+  },
+  {
+    "title": "Santa Clarita Diet",
+    "year": 2017,
+    "runtime": 30,
+    "genre": [
+      "Comedy",
+      "Horror",
+      ""
+    ],
+    "description": "Sheila and Joel are married real estate agents in Santa Clarita, California. When Sheila dies, their lives take a dark turn.",
+    "rating": 7.9,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Drew Barrymore",
+      "Timothy Olyphant",
+      "Liv Hewson",
+      "Skyler Gisondo"
+    ],
+    "votes": 45179,
+    "gross": null
+  },
+  {
+    "title": "The Perfect Date",
+    "year": null,
+    "runtime": 89,
+    "genre": [
+      "Comedy",
+      "Romance",
+      ""
+    ],
+    "description": "To save up for college, Brooks Rattigan creates an app where anyone can pay him to play the perfect stand-in boyfriend for any occasion.",
+    "rating": 5.9,
+    "metascore": null,
+    "directors": [
+      "Chris Nelson",
+      ""
+    ],
+    "stars": [
+      "Noah Centineo",
+      "Laura Marano",
+      "Odiseas Georgiadis",
+      "Camila Mendes"
+    ],
+    "votes": 15380,
+    "gross": null
+  },
+  {
+    "title": "Once Upon a Time in Hollywood",
+    "year": 2019,
+    "runtime": 165,
+    "genre": [
+      "Comedy",
+      "Drama",
+      ""
+    ],
+    "description": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Quentin Tarantino",
+      ""
+    ],
+    "stars": [
+      "Margot Robbie",
+      "James Marsden",
+      "Leonardo DiCaprio",
+      "Brad Pitt"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Ant-Man and the Wasp",
+    "year": 2018,
+    "runtime": 118,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
+    "rating": 7.1,
+    "metascore": 70,
+    "directors": [
+      "Peyton Reed",
+      ""
+    ],
+    "stars": [
+      "Paul Rudd",
+      "Evangeline Lilly",
+      "Michael Peña",
+      "Walton Goggins"
+    ],
+    "votes": 231963,
+    "gross": 216.65
+  },
+  {
+    "title": "The 100",
+    "year": 2014,
+    "runtime": 43,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci"
+    ],
+    "description": "Set ninety-seven years after a nuclear war has destroyed civilization, when a spaceship housing humanity's lone survivors sends one hundred juvenile delinquents back to Earth, in hopes of possibly re-populating the planet.",
+    "rating": 7.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Eliza Taylor",
+      "Bob Morley",
+      "Marie Avgeropoulos",
+      "Isaiah Washington"
+    ],
+    "votes": 172888,
+    "gross": null
+  },
+  {
+    "title": "Breakthrough",
+    "year": 2019,
+    "runtime": 116,
+    "genre": [
+      "Biography",
+      "Drama",
+      ""
+    ],
+    "description": "When her 14-year-old son drowns in a lake, a faithful mother prays for him to come back from the brink of death and be healed.",
+    "rating": 5.8,
+    "metascore": 47,
+    "directors": [
+      "Roxann Dawson",
+      ""
+    ],
+    "stars": [
+      "Topher Grace",
+      "Josh Lucas",
+      "Chrissy Metz",
+      "Marcel Ruiz"
+    ],
+    "votes": 1606,
+    "gross": 29.28
+  },
+  {
+    "title": "Crazy Rich Asians",
+    "year": 2018,
+    "runtime": 120,
+    "genre": [
+      "Comedy",
+      "Romance",
+      ""
+    ],
+    "description": "This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.",
+    "rating": 7,
+    "metascore": 74,
+    "directors": [
+      "Jon M. Chu",
+      ""
+    ],
+    "stars": [
+      "Constance Wu",
+      "Henry Golding",
+      "Michelle Yeoh",
+      "Gemma Chan"
+    ],
+    "votes": 91601,
+    "gross": 174.53
+  },
+  {
+    "title": "True Detective",
+    "year": 2014,
+    "runtime": 55,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "Seasonal anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
+    "rating": 9,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Vince Vaughn",
+      "Colin Farrell",
+      "Rachel McAdams",
+      "Taylor Kitsch"
+    ],
+    "votes": 436614,
+    "gross": null
+  },
+  {
+    "title": "Breaking Bad",
+    "year": 2008,
+    "runtime": 49,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+    "rating": 9.5,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Bryan Cranston",
+      "Aaron Paul",
+      "Anna Gunn",
+      "Betsy Brandt"
+    ],
+    "votes": 1182793,
+    "gross": null
+  },
+  {
+    "title": "Friends",
+    "year": 1994,
+    "runtime": 22,
+    "genre": [
+      "Comedy",
+      "Romance",
+      ""
+    ],
+    "description": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+    "rating": 8.9,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Jennifer Aniston",
+      "Courteney Cox",
+      "Lisa Kudrow",
+      "Matt LeBlanc"
+    ],
+    "votes": 664348,
+    "gross": null
+  },
+  {
+    "title": "Black Mirror",
+    "year": 2011,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "Sci",
+      ""
+    ],
+    "description": "An anthology series exploring a twisted, high-tech world where humanity's greatest innovations and darkest instincts collide.",
+    "rating": 8.9,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Daniel Lapaine",
+      "Hannah John-Kamen",
+      "Michaela Coel",
+      "Beatrice Robertson-Jones"
+    ],
+    "votes": 307658,
+    "gross": null
+  },
+  {
+    "title": "The Prodigy",
+    "year": 2019,
+    "runtime": 92,
+    "genre": [
+      "Horror",
+      "Thriller",
+      ""
+    ],
+    "description": "A mother concerned about her young son's disturbing behavior thinks something supernatural may be affecting him.",
+    "rating": 5.9,
+    "metascore": 45,
+    "directors": [
+      "Nicholas McCarthy",
+      ""
+    ],
+    "stars": [
+      "Jackson Robert Scott",
+      "Taylor Schilling",
+      "Peter Mooney",
+      "Colm Feore"
+    ],
+    "votes": 7440,
+    "gross": 14.86
+  },
+  {
+    "title": "The Professor and the Madman",
+    "year": 2019,
+    "runtime": 124,
+    "genre": [
+      "Biography",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "Professor James Murray begins work compiling words for the first edition of the Oxford English Dictionary in the mid 19th century, and receives over 10,000 entries from a patient at Broadmoor Criminal Lunatic Asylum, Dr. William Minor.",
+    "rating": 7.4,
+    "metascore": null,
+    "directors": [
+      "Farhad Safinia",
+      ""
+    ],
+    "stars": [
+      "Natalie Dormer",
+      "Mel Gibson",
+      "Stephen Dillane",
+      "Sean Penn"
+    ],
+    "votes": 6248,
+    "gross": null
+  },
+  {
+    "title": "Pokémon Detective Pikachu",
+    "year": 2019,
+    "runtime": 104,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.",
+    "rating": 7.7,
+    "metascore": 50,
+    "directors": [
+      "Rob Letterman",
+      ""
+    ],
+    "stars": [
+      "Ryan Reynolds",
+      "Justice Smith",
+      "Kathryn Newton",
+      "Bill Nighy"
+    ],
+    "votes": 775,
+    "gross": null
+  },
+  {
+    "title": "The Dirt",
+    "year": 2019,
+    "runtime": 107,
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "description": "The story of how Mötley Crüe came to be one of the most notorious rock 'n roll groups in history.",
+    "rating": 7,
+    "metascore": 39,
+    "directors": [
+      "Jeff Tremaine",
+      ""
+    ],
+    "stars": [
+      "Douglas Booth",
+      "Iwan Rheon",
+      "Daniel Webber",
+      "Machine Gun Kelly"
+    ],
+    "votes": 23959,
+    "gross": null
+  },
+  {
+    "title": "Chambers",
+    "year": 2019,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "description": "A woman survives a heart transplant and begins to develop different personality traits.",
+    "rating": 6.6,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Sivan Alyra Rose",
+      "Marcus LaVoi",
+      "Nicholas Galitzine",
+      "Kyanna Simone Simpson"
+    ],
+    "votes": 2609,
+    "gross": null
+  },
+  {
+    "title": "NCIS: Naval Criminal Investigative Service",
+    "year": 2003,
+    "runtime": 60,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "The cases of the Naval Criminal Investigative Service's Washington, D.C. Major Case Response Team, led by Special Agent Leroy Jethro Gibbs.",
+    "rating": 7.8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Mark Harmon",
+      "David McCallum",
+      "Sean Murray",
+      "Pauley Perrette"
+    ],
+    "votes": 106872,
+    "gross": null
+  },
+  {
+    "title": "Hanna",
+    "year": 2019,
+    "runtime": 60,
+    "genre": [
+      "Action",
+      "Drama",
+      ""
+    ],
+    "description": "In equal parts high-concept thriller and coming-of-age drama, HANNA follows the journey of an extraordinary young girl raised in the forest, as she evades the relentless pursuit of an off-book CIA agent and tries to unearth the truth behind who she is.",
+    "rating": 7.6,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Esme Creed-Miles",
+      "Mireille Enos",
+      "Joel Kinnaman",
+      "Rhianne Barreto"
+    ],
+    "votes": 9831,
+    "gross": null
+  },
+  {
+    "title": "Doom Patrol",
+    "year": 2019,
+    "runtime": 60,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "The adventures of an idealistic mad scientist and his field team of superpowered outcasts.",
+    "rating": 8.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Diane Guerrero",
+      "April Bowlby",
+      "Alan Tudyk",
+      "Matt Bomer"
+    ],
+    "votes": 9809,
+    "gross": null
+  },
+  {
+    "title": "Gentleman Jack",
+    "year": 2019,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "",
+      ""
+    ],
+    "description": "Anne Lister returns to Halifax, West Yorkshire in 1832, determined to transform the fate of her faded ancestral home Shibden Hall.",
+    "rating": 7.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Joe Armstrong",
+      "Jessica Baglow",
+      "Amelia Bullmore",
+      "Rosie Cavaliero"
+    ],
+    "votes": 743,
+    "gross": null
+  },
+  {
+    "title": "Stranger Things",
+    "year": 2016,
+    "runtime": 51,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "description": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.",
+    "rating": 8.9,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Millie Bobby Brown",
+      "Finn Wolfhard",
+      "Winona Ryder",
+      "David Harbour"
+    ],
+    "votes": 580932,
+    "gross": null
+  },
+  {
+    "title": "Escape Room",
+    "year": null,
+    "runtime": 99,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "Six strangers find themselves in a maze of deadly mystery rooms, and must use their wits to survive.",
+    "rating": 6.4,
+    "metascore": 48,
+    "directors": [
+      "Adam Robitel",
+      ""
+    ],
+    "stars": [
+      "Taylor Russell",
+      "Logan Miller",
+      "Jay Ellis",
+      "Tyler Labine"
+    ],
+    "votes": 35187,
+    "gross": 57.01
+  },
+  {
+    "title": "Dumbo",
+    "year": 2019,
+    "runtime": 112,
+    "genre": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "description": "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+    "rating": 6.6,
+    "metascore": 51,
+    "directors": [
+      "Tim Burton",
+      ""
+    ],
+    "stars": [
+      "Colin Farrell",
+      "Michael Keaton",
+      "Danny DeVito",
+      "Eva Green"
+    ],
+    "votes": 22848,
+    "gross": 108.28
+  },
+  {
+    "title": "Law & Order: Special Victims Unit",
+    "year": 1999,
+    "runtime": 60,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "The Special Victims Unit, a specially trained squad of detectives in the NYPD, investigate sexually related crimes.",
+    "rating": 8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Mariska Hargitay",
+      "Christopher Meloni",
+      "Ice-T",
+      "Dann Florek"
+    ],
+    "votes": 68406,
+    "gross": null
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "year": 2018,
+    "runtime": 134,
+    "genre": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "description": "The story of the legendary rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).",
+    "rating": 8.1,
+    "metascore": 49,
+    "directors": [
+      "Bryan Singer",
+      ""
+    ],
+    "stars": [
+      "Rami Malek",
+      "Lucy Boynton",
+      "Gwilym Lee",
+      "Ben Hardy"
+    ],
+    "votes": 331937,
+    "gross": 216.3
+  },
+  {
+    "title": "Westworld",
+    "year": 2016,
+    "runtime": 62,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci"
+    ],
+    "description": "Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.",
+    "rating": 8.8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Evan Rachel Wood",
+      "Jeffrey Wright",
+      "Ed Harris",
+      "Thandie Newton"
+    ],
+    "votes": 337492,
+    "gross": null
+  },
+  {
+    "title": "Quicksand",
+    "year": 2019,
+    "runtime": 45,
+    "genre": [
+      "Drama",
+      "",
+      ""
+    ],
+    "description": "Maja, a student in Stockholm, finds herself on trial for murder after a tragedy at her school. More doubts and suspicions arise when new revelations are made.",
+    "rating": 7.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Hanna Ardéhn",
+      "Felix Sandman",
+      "David Dencik",
+      "Ella Rappich"
+    ],
+    "votes": 8123,
+    "gross": null
+  },
+  {
+    "title": "Bond 25",
+    "year": 2020,
+    "runtime": null,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "description": "Bond has left active service. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Cary Joji Fukunaga",
+      ""
+    ],
+    "stars": [
+      "Ana de Armas",
+      "Rami Malek",
+      "Daniel Craig",
+      "Léa Seydoux"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Barry",
+    "year": 2018,
+    "runtime": 30,
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "description": "A hit man from the Midwest moves to Los Angeles and gets caught up in the city's theatre arts scene.",
+    "rating": 8.1,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Bill Hader",
+      "Stephen Root",
+      "Sarah Goldberg",
+      "Anthony Carrigan"
+    ],
+    "votes": 18624,
+    "gross": null
+  },
+  {
+    "title": "Black Panther",
+    "year": 2018,
+    "runtime": 134,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+    "rating": 7.3,
+    "metascore": 88,
+    "directors": [
+      "Ryan Coogler",
+      ""
+    ],
+    "stars": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong'o",
+      "Danai Gurira"
+    ],
+    "votes": 503124,
+    "gross": 700.06
+  },
+  {
+    "title": "The Lion King",
+    "year": 2019,
+    "runtime": null,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Jon Favreau",
+      ""
+    ],
+    "stars": [
+      "Seth Rogen",
+      "Donald Glover",
+      "Chiwetel Ejiofor",
+      "James Earl Jones"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Criminal Minds",
+    "year": 2005,
+    "runtime": 42,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "The cases of the F.B.I. Behavioral Analysis Unit (B.A.U.), an elite group of profilers who analyze the nation's most dangerous serial killers and individual heinous crimes in an effort to anticipate their next moves before they strike again.",
+    "rating": 8.1,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Matthew Gray Gubler",
+      "Kirsten Vangsness",
+      "A.J. Cook",
+      "Joe Mantegna"
+    ],
+    "votes": 137835,
+    "gross": null
+  },
+  {
+    "title": "Into the Badlands",
+    "year": 2015,
+    "runtime": 42,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "A mighty warrior and a young boy search for enlightenment in a ruthless territory controlled by feudal barons.",
+    "rating": 8.1,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Daniel Wu",
+      "Orla Brady",
+      "Emily Beecham",
+      "Aramis Knight"
+    ],
+    "votes": 34779,
+    "gross": null
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "runtime": 121,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+    "rating": 8.1,
+    "metascore": 76,
+    "directors": [
+      "James Gunn",
+      ""
+    ],
+    "stars": [
+      "Chris Pratt",
+      "Vin Diesel",
+      "Bradley Cooper",
+      "Zoe Saldana"
+    ],
+    "votes": 936219,
+    "gross": 333.18
+  },
+  {
+    "title": "Jane the Virgin",
+    "year": 2014,
+    "runtime": 60,
+    "genre": [
+      "Comedy",
+      "",
+      ""
+    ],
+    "description": "A young, devout Catholic woman discovers that she was accidentally artificially inseminated.",
+    "rating": 7.8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Gina Rodriguez",
+      "Andrea Navedo",
+      "Yael Grobglas",
+      "Jaime Camil"
+    ],
+    "votes": 28876,
+    "gross": null
+  },
+  {
+    "title": "The Mule",
+    "year": 2018,
+    "runtime": 116,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A 90-year-old horticulturist and Korean War veteran turns drug mule for a Mexican cartel.",
+    "rating": 7.1,
+    "metascore": 58,
+    "directors": [
+      "Clint Eastwood",
+      ""
+    ],
+    "stars": [
+      "Clint Eastwood",
+      "Patrick L. Reyes",
+      "Cesar De León",
+      "Gustavo Muñoz"
+    ],
+    "votes": 50473,
+    "gross": 103.8
+  },
+  {
+    "title": "Suits",
+    "year": 2011,
+    "runtime": 44,
+    "genre": [
+      "Comedy",
+      "Drama",
+      ""
+    ],
+    "description": "On the run from a drug deal gone bad, Mike Ross, a brilliant college dropout, finds himself a job working with Harvey Specter, one of New York City's best lawyers.",
+    "rating": 8.5,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Gabriel Macht",
+      "Patrick J. Adams",
+      "Meghan Markle",
+      "Sarah Rafferty"
+    ],
+    "votes": 324048,
+    "gross": null
+  },
+  {
+    "title": "Love, Death & Robots",
+    "year": 2019,
+    "runtime": 15,
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Fantasy"
+    ],
+    "description": "A collection of animated short stories that span various genres including science fiction, fantasy, horror and comedy.",
+    "rating": 8.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Scott Whyte",
+      "Nolan North",
+      "Matthew Yang King",
+      "Michael Benyaer"
+    ],
+    "votes": 47604,
+    "gross": null
+  },
+  {
+    "title": "Green Book",
+    "year": 2018,
+    "runtime": 130,
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "description": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",
+    "rating": 8.3,
+    "metascore": 69,
+    "directors": [
+      "Peter Farrelly",
+      ""
+    ],
+    "stars": [
+      "Viggo Mortensen",
+      "Mahershala Ali",
+      "Linda Cardellini",
+      "Sebastian Maniscalco"
+    ],
+    "votes": 187820,
+    "gross": 85.08
+  },
+  {
+    "title": "Joker",
+    "year": 2019,
+    "runtime": null,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A failed stand-up comedian is driven insane and becomes a psychopathic murderer.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Todd Phillips",
+      ""
+    ],
+    "stars": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz",
+      "Bryan Callen"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Destroyer",
+    "year": 2018,
+    "runtime": 121,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "A police detective reconnects with people from an undercover assignment in her distant past in order to make peace.",
+    "rating": 6.3,
+    "metascore": 62,
+    "directors": [
+      "Karyn Kusama",
+      ""
+    ],
+    "stars": [
+      "Nicole Kidman",
+      "Toby Kebbell",
+      "Tatiana Maslany",
+      "Sebastian Stan"
+    ],
+    "votes": 11248,
+    "gross": 1.53
+  },
+  {
+    "title": "Mary Poppins Returns",
+    "year": 2018,
+    "runtime": 130,
+    "genre": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "description": "Decades after her original visit, the magical nanny returns to help the Banks siblings and Michael's children through a difficult time in their lives.",
+    "rating": 6.9,
+    "metascore": 66,
+    "directors": [
+      "Rob Marshall",
+      ""
+    ],
+    "stars": [
+      "Emily Blunt",
+      "Lin-Manuel Miranda",
+      "Ben Whishaw",
+      "Emily Mortimer"
+    ],
+    "votes": 48694,
+    "gross": 171.96
+  },
+  {
+    "title": "Mamma Mia! Here We Go Again",
+    "year": 2018,
+    "runtime": 114,
+    "genre": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "description": "Five years after the events of Mamma Mia! (2008), Sophie prepares for the grand reopening of the Hotel Bella Donna as she learns more about her mother's past.",
+    "rating": 6.8,
+    "metascore": 60,
+    "directors": [
+      "Ol Parker",
+      ""
+    ],
+    "stars": [
+      "Lily James",
+      "Amanda Seyfried",
+      "Meryl Streep",
+      "Cher"
+    ],
+    "votes": 58173,
+    "gross": 120.63
+  },
+  {
+    "title": "What Men Want",
+    "year": 2019,
+    "runtime": 117,
+    "genre": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "description": "A woman is boxed out by the male sports agents in her profession, but gains an unexpected edge over them when she develops the ability to hear men's thoughts.",
+    "rating": 4.7,
+    "metascore": 49,
+    "directors": [
+      "Adam Shankman",
+      ""
+    ],
+    "stars": [
+      "Taraji P. Henson",
+      "Kristen Ledlow",
+      "Josh Brener",
+      "Kellan Lutz"
+    ],
+    "votes": 7141,
+    "gross": 54.61
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "year": 2017,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "Sci",
+      ""
+    ],
+    "description": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+    "rating": 8.5,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Elisabeth Moss",
+      "Max Minghella",
+      "Amanda Brugel",
+      "Yvonne Strahovski"
+    ],
+    "votes": 113256,
+    "gross": null
+  },
+  {
+    "title": "Big Little Lies",
+    "year": 2017,
+    "runtime": 60,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "The apparently perfect lives of three mothers of first graders unravel to the point of murder.",
+    "rating": 8.6,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Cameron Crovetti",
+      "Nicholas Crovetti",
+      "Reese Witherspoon",
+      "Nicole Kidman"
+    ],
+    "votes": 100250,
+    "gross": null
+  },
+  {
+    "title": "Extremely Wicked, Shockingly Evil and Vile",
+    "year": 2019,
+    "runtime": 110,
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "description": "A courtroom frenzy ensues and sweeps 1970s America when a young single mother reluctantly tips the attention of a widespread manhunt toward her longtime boyfriend, Ted Bundy.",
+    "rating": 6.8,
+    "metascore": 52,
+    "directors": [
+      "Joe Berlinger",
+      ""
+    ],
+    "stars": [
+      "Lily Collins",
+      "Zac Efron",
+      "Angela Sarafyan",
+      "Sydney Vollmer"
+    ],
+    "votes": 12388,
+    "gross": null
+  },
+  {
+    "title": "John Wick: Chapter 3 - Parabellum",
+    "year": 2019,
+    "runtime": 130,
+    "genre": [
+      "Action",
+      "Thriller",
+      ""
+    ],
+    "description": "Super-assassin John Wick is on the run after killing a member of the international assassin's guild, and with a $14 million price tag on his head - he is the target of hit men and women everywhere.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Chad Stahelski",
+      ""
+    ],
+    "stars": [
+      "Keanu Reeves",
+      "Asia Kate Dillon",
+      "Jerome Flynn",
+      "Ian McShane"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Shameless",
+    "year": 2011,
+    "runtime": 46,
+    "genre": [
+      "Comedy",
+      "Drama",
+      ""
+    ],
+    "description": "A scrappy, fiercely loyal Chicago family makes no apologies.",
+    "rating": 8.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Emmy Rossum",
+      "William H. Macy",
+      "Ethan Cutkosky",
+      "Jeremy Allen White"
+    ],
+    "votes": 169208,
+    "gross": null
+  },
+  {
+    "title": "The Twilight Zone",
+    "year": 2019,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "description": "An updated version of the classic TV series featuring various tales of science fiction, horror and mystery.",
+    "rating": 6.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Jordan Peele",
+      "Jefferson White",
+      "Shalyn Ferdinand",
+      "Ian Hawes"
+    ],
+    "votes": 4375,
+    "gross": null
+  },
+  {
+    "title": "Captain America: The First Avenger",
+    "year": 2011,
+    "runtime": 124,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a \"Super-Soldier serum\". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+    "rating": 6.9,
+    "metascore": 66,
+    "directors": [
+      "Joe Johnston",
+      ""
+    ],
+    "stars": [
+      "Chris Evans",
+      "Hugo Weaving",
+      "Samuel L. Jackson",
+      "Hayley Atwell"
+    ],
+    "votes": 658679,
+    "gross": 176.65
+  },
+  {
+    "title": "Terminator: Dark Fate",
+    "year": 2019,
+    "runtime": null,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "Plot unknown.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Tim Miller",
+      ""
+    ],
+    "stars": [
+      "Arnold Schwarzenegger",
+      "Mackenzie Davis",
+      "Gabriel Luna",
+      "Linda Hamilton"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "runtime": 147,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+    "rating": 7.8,
+    "metascore": 75,
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "stars": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Scarlett Johansson",
+      "Sebastian Stan"
+    ],
+    "votes": 572251,
+    "gross": 408.08
+  },
+  {
+    "title": "21 Bridges",
+    "year": 2019,
+    "runtime": null,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A disgraced detective in the NYPD is given a shot at redemption.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Brian Kirk",
+      ""
+    ],
+    "stars": [
+      "Chadwick Boseman",
+      "Taylor Kitsch",
+      "Sienna Miller",
+      "Gary Carr"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Warrior",
+    "year": 2019,
+    "runtime": 60,
+    "genre": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "description": "Set during the Tong Wars in the late 1800s, Ah Sahm, a martial arts prodigy originating from China to San Francisco, ends up becoming a hatchet man for the most powerful tong in Chinatown",
+    "rating": 8.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Andrew Koji",
+      "Olivia Cheng",
+      "Jason Tobin",
+      "Dianne Doan"
+    ],
+    "votes": 2127,
+    "gross": null
+  },
+  {
+    "title": "Iron Man",
+    "year": 2008,
+    "runtime": 126,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "rating": 7.9,
+    "metascore": 79,
+    "directors": [
+      "Jon Favreau",
+      ""
+    ],
+    "stars": [
+      "Robert Downey Jr.",
+      "Gwyneth Paltrow",
+      "Terrence Howard",
+      "Jeff Bridges"
+    ],
+    "votes": 853958,
+    "gross": 318.41
+  },
+  {
+    "title": "Split",
+    "year": null,
+    "runtime": 117,
+    "genre": [
+      "Horror",
+      "Thriller",
+      ""
+    ],
+    "description": "Three girls are kidnapped by a man with a diagnosed 23 distinct personalities. They must try to escape before the apparent emergence of a frightful new 24th.",
+    "rating": 7.3,
+    "metascore": 62,
+    "directors": [
+      "M. Night Shyamalan",
+      ""
+    ],
+    "stars": [
+      "James McAvoy",
+      "Anya Taylor-Joy",
+      "Haley Lu Richardson",
+      "Jessica Sula"
+    ],
+    "votes": 351376,
+    "gross": 138.29
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "runtime": 142,
+    "genre": [
+      "Drama",
+      "",
+      ""
+    ],
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "rating": 9.3,
+    "metascore": 80,
+    "directors": [
+      "Frank Darabont",
+      ""
+    ],
+    "stars": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler"
+    ],
+    "votes": 2084331,
+    "gross": 28.34
+  },
+  {
+    "title": "A Star Is Born",
+    "year": 2018,
+    "runtime": 136,
+    "genre": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "description": "A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.",
+    "rating": 7.8,
+    "metascore": 88,
+    "directors": [
+      "Bradley Cooper",
+      ""
+    ],
+    "stars": [
+      "Lady Gaga",
+      "Bradley Cooper",
+      "Sam Elliott",
+      "Greg Grunberg"
+    ],
+    "votes": 239349,
+    "gross": 215.29
+  },
+  {
+    "title": "It: Chapter Two",
+    "year": 2019,
+    "runtime": null,
+    "genre": [
+      "Horror",
+      "Thriller",
+      ""
+    ],
+    "description": "Twenty-seven years later, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Andy Muschietti",
+      ""
+    ],
+    "stars": [
+      "James McAvoy",
+      "Javier Botet",
+      "Jessica Chastain",
+      "Bill Skarsgård"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Modern Family",
+    "year": 2009,
+    "runtime": 22,
+    "genre": [
+      "Comedy",
+      "Romance",
+      ""
+    ],
+    "description": "Three different but related families face trials and tribulations in their own uniquely comedic ways.",
+    "rating": 8.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Ed O'Neill",
+      "Sofía Vergara",
+      "Julie Bowen",
+      "Ty Burrell"
+    ],
+    "votes": 310287,
+    "gross": null
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "year": 2017,
+    "runtime": 133,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+    "rating": 7.5,
+    "metascore": 73,
+    "directors": [
+      "Jon Watts",
+      ""
+    ],
+    "stars": [
+      "Tom Holland",
+      "Michael Keaton",
+      "Robert Downey Jr.",
+      "Marisa Tomei"
+    ],
+    "votes": 414617,
+    "gross": 334.2
+  },
+  {
+    "title": "Bumblebee",
+    "year": 2018,
+    "runtime": 114,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "On the run in the year of 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.",
+    "rating": 6.9,
+    "metascore": 66,
+    "directors": [
+      "Travis Knight",
+      ""
+    ],
+    "stars": [
+      "Hailee Steinfeld",
+      "Jorge Lendeborg Jr.",
+      "John Cena",
+      "Jason Drucker"
+    ],
+    "votes": 86696,
+    "gross": 127.2
+  },
+  {
+    "title": "Legacies",
+    "year": 2018,
+    "runtime": 45,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "description": "Hope Mikaelson, a tribrid daughter of a Vampire/Werewolf hybrid, makes her way in the world.",
+    "rating": 7.6,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Danielle Rose Russell",
+      "Aria Shahghasemi",
+      "Kaylee Bryant",
+      "Jenny Boyd"
+    ],
+    "votes": 9238,
+    "gross": null
+  },
+  {
+    "title": "All American",
+    "year": 2018,
+    "runtime": 45,
+    "genre": [
+      "Drama",
+      "Sport",
+      ""
+    ],
+    "description": "When a star high school football player from South Central is recruited to play for Beverly Hills High School, two separate worlds collide.",
+    "rating": 7.5,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Daniel Ezra",
+      "Bre-Z",
+      "Greta Onieogou",
+      "Samantha Logan"
+    ],
+    "votes": 2350,
+    "gross": null
+  },
+  {
+    "title": "Triple Frontier",
+    "year": 2019,
+    "runtime": 125,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "description": "Loyalties are tested when five former special forces operatives reunite to steal a drug lord's fortune, unleashing a chain of unintended consequences.",
+    "rating": 6.5,
+    "metascore": 61,
+    "directors": [
+      "J.C. Chandor",
+      ""
+    ],
+    "stars": [
+      "Ben Affleck",
+      "Oscar Isaac",
+      "Charlie Hunnam",
+      "Garrett Hedlund"
+    ],
+    "votes": 66649,
+    "gross": null
+  },
+  {
+    "title": "Imposters",
+    "year": 2017,
+    "runtime": 41,
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "description": "A dark comedy that focuses on a female con artist who marries people and then disappears with their money.",
+    "rating": 7.8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Inbar Lavi",
+      "Rob Heaps",
+      "Parker Young",
+      "Marianne Rendón"
+    ],
+    "votes": 7439,
+    "gross": null
+  },
+  {
+    "title": "Legends of Tomorrow",
+    "year": 2016,
+    "runtime": 42,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "Time-travelling rogue Rip Hunter has to recruit a rag-tag team of heroes and villains to help prevent an apocalypse that could impact not only Earth, but all of time.",
+    "rating": 6.9,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Brandon Routh",
+      "Caity Lotz",
+      "Amy Louise Pemberton",
+      "Dominic Purcell"
+    ],
+    "votes": 79524,
+    "gross": null
+  },
+  {
+    "title": "The Sopranos",
+    "year": 1999,
+    "runtime": 55,
+    "genre": [
+      "Crime",
+      "Drama",
+      ""
+    ],
+    "description": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.",
+    "rating": 9.2,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "James Gandolfini",
+      "Lorraine Bracco",
+      "Edie Falco",
+      "Michael Imperioli"
+    ],
+    "votes": 249340,
+    "gross": null
+  },
+  {
+    "title": "The Rookie",
+    "year": 2018,
+    "runtime": 43,
+    "genre": [
+      "Crime",
+      "Drama",
+      ""
+    ],
+    "description": "Starting over isn't easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he's met with skepticism from those who see him as just a walking midlife crisis.",
+    "rating": 8.1,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Nathan Fillion",
+      "Alyssa Diaz",
+      "Richard T. Jones",
+      "Titus Makin Jr."
+    ],
+    "votes": 9203,
+    "gross": null
+  },
+  {
+    "title": "Sex Education",
+    "year": 2019,
+    "runtime": 45,
+    "genre": [
+      "Comedy",
+      "Drama",
+      ""
+    ],
+    "description": "A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.",
+    "rating": 8.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Alistair Petrie",
+      "Aimee Lou Wood",
+      "Ncuti Gatwa",
+      "Connor Swindells"
+    ],
+    "votes": 59823,
+    "gross": null
+  },
+  {
+    "title": "Veep",
+    "year": 2012,
+    "runtime": 28,
+    "genre": [
+      "Comedy",
+      "",
+      ""
+    ],
+    "description": "Former Senator Selina Meyer finds that being Vice President of the United States is nothing like she hoped and everything that everyone ever warned her about.",
+    "rating": 8.2,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Julia Louis-Dreyfus",
+      "Tony Hale",
+      "Anna Chlumsky",
+      "Reid Scott"
+    ],
+    "votes": 35931,
+    "gross": null
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "runtime": 136,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.",
+    "rating": 7.7,
+    "metascore": 67,
+    "directors": [
+      "James Gunn",
+      ""
+    ],
+    "stars": [
+      "Chris Pratt",
+      "Zoe Saldana",
+      "Dave Bautista",
+      "Vin Diesel"
+    ],
+    "votes": 471907,
+    "gross": 389.81
+  },
+  {
+    "title": "Fosse/Verdon",
+    "year": 2019,
+    "runtime": 60,
+    "genre": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "description": "An inside look at the romantic and creative partnership between influential choreographer/director, Bob Fosse, and Gwen Verdon, one of the greatest Broadway dancers of all time.",
+    "rating": 7.9,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Sam Rockwell",
+      "Michelle Williams",
+      "Norbert Leo Butz",
+      "Aya Cash"
+    ],
+    "votes": 685,
+    "gross": null
+  },
+  {
+    "title": "The Magicians",
+    "year": 2015,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      ""
+    ],
+    "description": "After being recruited to a secretive academy, a group of students discover that the magic they read about as children is very real-and more dangerous than they ever imagined.",
+    "rating": 7.6,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Jason Ralph",
+      "Stella Maeve",
+      "Hale Appleman",
+      "Arjun Gupta"
+    ],
+    "votes": 35223,
+    "gross": null
+  },
+  {
+    "title": "Toy Story 4",
+    "year": 2019,
+    "runtime": 89,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Josh Cooley",
+      ""
+    ],
+    "stars": [
+      "Christina Hendricks",
+      "Patricia Arquette",
+      "Keanu Reeves",
+      "Tom Hanks"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Supergirl",
+    "year": 2015,
+    "runtime": 43,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "The adventures of Superman's cousin in her own superhero career.",
+    "rating": 6.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Melissa Benoist",
+      "Mehcad Brooks",
+      "Chyler Leigh",
+      "David Harewood"
+    ],
+    "votes": 95469,
+    "gross": null
+  },
+  {
+    "title": "Cold Pursuit",
+    "year": 2019,
+    "runtime": 119,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "A grieving snowplow driver seeks out revenge against the drug dealers who killed his son. Based on the 2014 Norwegian film 'In Order of Disappearance'.",
+    "rating": 6.3,
+    "metascore": 57,
+    "directors": [
+      "Hans Petter Moland",
+      ""
+    ],
+    "stars": [
+      "Liam Neeson",
+      "Laura Dern",
+      "Micheál Richardson",
+      "Michael Eklund"
+    ],
+    "votes": 17185,
+    "gross": 32.14
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "runtime": 175,
+    "genre": [
+      "Crime",
+      "Drama",
+      ""
+    ],
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "rating": 9.2,
+    "metascore": 100,
+    "directors": [
+      "Francis Ford Coppola",
+      ""
+    ],
+    "stars": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Diane Keaton"
+    ],
+    "votes": 1430289,
+    "gross": 134.97
+  },
+  {
+    "title": "Deadpool 2",
+    "year": 2018,
+    "runtime": 119,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg, Cable.",
+    "rating": 7.8,
+    "metascore": 66,
+    "directors": [
+      "David Leitch",
+      ""
+    ],
+    "stars": [
+      "Ryan Reynolds",
+      "Josh Brolin",
+      "Morena Baccarin",
+      "Julian Dennison"
+    ],
+    "votes": 380365,
+    "gross": 324.59
+  },
+  {
+    "title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "year": 2018,
+    "runtime": 134,
+    "genre": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "description": "The second installment of the \"Fantastic Beasts\" series featuring the adventures of Magizoologist Newt Scamander.",
+    "rating": 6.7,
+    "metascore": 52,
+    "directors": [
+      "David Yates",
+      ""
+    ],
+    "stars": [
+      "Eddie Redmayne",
+      "Katherine Waterston",
+      "Dan Fogler",
+      "Johnny Depp"
+    ],
+    "votes": 157380,
+    "gross": 159.56
+  },
+  {
+    "title": "Tolkien",
+    "year": 2019,
+    "runtime": 112,
+    "genre": [
+      "Biography",
+      "Drama",
+      ""
+    ],
+    "description": "Tolkien explores the formative years of the orphaned author as he finds friendship, love and artistic inspiration among a group of fellow outcasts at school.",
+    "rating": 7.2,
+    "metascore": 50,
+    "directors": [
+      "Dome Karukoski",
+      ""
+    ],
+    "stars": [
+      "Lily Collins",
+      "Nicholas Hoult",
+      "Patrick Gibson",
+      "Pam Ferris"
+    ],
+    "votes": 599,
+    "gross": null
+  },
+  {
+    "title": "The Widow",
+    "year": 2019,
+    "runtime": 60,
+    "genre": [
+      "Thriller",
+      "",
+      ""
+    ],
+    "description": "A woman's search to uncover the mysterious disappearance of her husband leads her to the Congo, where she's forced to seek the truth about what happened to the man she loved.",
+    "rating": 7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Kate Beckinsale",
+      "Charles Dance",
+      "Ólafur Darri Ólafsson",
+      "Alex Kingston"
+    ],
+    "votes": 4002,
+    "gross": null
+  },
+  {
+    "title": "A Discovery of Witches",
+    "year": 2018,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "description": "Diana Bishop, historian and witch, accesses Ashmole 782 and knows she must solve its mysteries. She is offered help by the enigmatic Matthew Clairmont, but he's a vampire and witches should never trust vampires.",
+    "rating": 8.2,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Matthew Goode",
+      "Teresa Palmer",
+      "Valarie Pettiford",
+      "Malin Buska"
+    ],
+    "votes": 16551,
+    "gross": null
+  },
+  {
+    "title": "Iron Man Three",
+    "year": 2013,
+    "runtime": 130,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+    "rating": 7.2,
+    "metascore": 62,
+    "directors": [
+      "Shane Black",
+      ""
+    ],
+    "stars": [
+      "Robert Downey Jr.",
+      "Guy Pearce",
+      "Gwyneth Paltrow",
+      "Don Cheadle"
+    ],
+    "votes": 684898,
+    "gross": 409.01
+  },
+  {
+    "title": "How to Train Your Dragon: The Hidden World",
+    "year": 2019,
+    "runtime": 104,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "description": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek \"The Hidden World\", a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+    "rating": 7.6,
+    "metascore": 71,
+    "directors": [
+      "Dean DeBlois",
+      ""
+    ],
+    "stars": [
+      "Jay Baruchel",
+      "America Ferrera",
+      "F. Murray Abraham",
+      "Cate Blanchett"
+    ],
+    "votes": 52539,
+    "gross": 159.77
+  },
+  {
+    "title": "American Horror Story",
+    "year": 2011,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "description": "An anthology series centering on different characters and locations, including a house with a murderous past, an insane asylum, a witch coven, a freak show, a hotel, a possessed farmhouse, a cult, and the apocalypse.",
+    "rating": 8.1,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Lady Gaga",
+      "Kathy Bates",
+      "Angela Bassett",
+      "Sarah Paulson"
+    ],
+    "votes": 247863,
+    "gross": null
+  },
+  {
+    "title": "Agents of S.H.I.E.L.D.",
+    "year": 2013,
+    "runtime": 45,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.",
+    "rating": 7.5,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Clark Gregg",
+      "Ming-Na Wen",
+      "Brett Dalton",
+      "Iain De Caestecker"
+    ],
+    "votes": 181270,
+    "gross": null
+  },
+  {
+    "title": "This Is Us",
+    "year": 2016,
+    "runtime": 45,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "description": "A heartwarming and emotional story about a unique set of triplets, their struggles, and their wonderful parents.",
+    "rating": 8.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Milo Ventimiglia",
+      "Mandy Moore",
+      "Sterling K. Brown",
+      "Chrissy Metz"
+    ],
+    "votes": 75770,
+    "gross": null
+  },
+  {
+    "title": "Drunk Parents",
+    "year": 2019,
+    "runtime": 97,
+    "genre": [
+      "Comedy",
+      "",
+      ""
+    ],
+    "description": "Two drunk parents attempt to hide their ever increasing financial difficulties from their daughter and social circle through elaborate neighborhood schemes.",
+    "rating": 3.6,
+    "metascore": null,
+    "directors": [
+      "Fred Wolf",
+      ""
+    ],
+    "stars": [
+      "Alec Baldwin",
+      "Salma Hayek",
+      "Jim Gaffigan",
+      "Joe Manganiello"
+    ],
+    "votes": 1205,
+    "gross": null
+  },
+  {
+    "title": "13 Going on 30",
+    "year": 2004,
+    "runtime": 98,
+    "genre": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "description": "A girl makes a wish on her thirteenth birthday, and wakes up the next day as a thirty-year-old woman.",
+    "rating": 6.2,
+    "metascore": 57,
+    "directors": [
+      "Gary Winick",
+      ""
+    ],
+    "stars": [
+      "Jennifer Garner",
+      "Mark Ruffalo",
+      "Judy Greer",
+      "Andy Serkis"
+    ],
+    "votes": 148671,
+    "gross": 57.23
+  },
+  {
+    "title": "9-1-1",
+    "year": 2018,
+    "runtime": 43,
+    "genre": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "Explores the high-pressure experiences of the first responders who are thrust into the most frightening, shocking and heart-stopping situations.",
+    "rating": 7.6,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Angela Bassett",
+      "Peter Krause",
+      "Oliver Stark",
+      "Aisha Hinds"
+    ],
+    "votes": 12681,
+    "gross": null
+  },
+  {
+    "title": "Happy!",
+    "year": 2017,
+    "runtime": 60,
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "description": "An injured hitman befriends his kidnapped daughter's imaginary friend - a perky blue flying unicorn.",
+    "rating": 8.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Christopher Meloni",
+      "Patton Oswalt",
+      "Ritchie Coster",
+      "Lili Mirojnick"
+    ],
+    "votes": 21921,
+    "gross": null
+  },
+  {
+    "title": "Blindspot",
+    "year": 2015,
+    "runtime": 42,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Jane Doe is found in Times Square with no memory and mysterious tattoos on her body.",
+    "rating": 7.5,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Sullivan Stapleton",
+      "Jaimie Alexander",
+      "Rob Brown",
+      "Audrey Esparza"
+    ],
+    "votes": 59785,
+    "gross": null
+  },
+  {
+    "title": "How to Get Away with Murder",
+    "year": 2014,
+    "runtime": 43,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "A group of ambitious law students and their brilliant criminal defense professor become involved in a twisted murder plot that promises to change the course of their lives.",
+    "rating": 8.2,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Viola Davis",
+      "Billy Brown",
+      "Jack Falahee",
+      "Aja Naomi King"
+    ],
+    "votes": 103289,
+    "gross": null
+  },
+  {
+    "title": "Outlander",
+    "year": 2014,
+    "runtime": 64,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "description": "An English combat nurse from 1945 is mysteriously swept back in time to 1743.",
+    "rating": 8.5,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Caitriona Balfe",
+      "Sam Heughan",
+      "Duncan Lacroix",
+      "Tobias Menzies"
+    ],
+    "votes": 91207,
+    "gross": null
+  },
+  {
+    "title": "Little",
+    "year": null,
+    "runtime": 109,
+    "genre": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "description": "A woman is transformed into her younger self at a point in her life when the pressures of adulthood become too much to bear.",
+    "rating": 5.4,
+    "metascore": 49,
+    "directors": [
+      "Tina Gordon",
+      ""
+    ],
+    "stars": [
+      "Regina Hall",
+      "Issa Rae",
+      "Marsai Martin",
+      "Justin Hartley"
+    ],
+    "votes": 2314,
+    "gross": 37.11
+  },
+  {
+    "title": "No Good Nick",
+    "year": 2019,
+    "runtime": 30,
+    "genre": [
+      "Comedy",
+      "Family",
+      ""
+    ],
+    "description": "A family finds their lives turned upside down when a young, street-smart grifter shows up on their doorstep, claiming to be a distant relative.",
+    "rating": 5.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Siena Agudong",
+      "Lauren Lindsey Donzis",
+      "Kalama Epstein",
+      "Sean Astin"
+    ],
+    "votes": 738,
+    "gross": null
+  },
+  {
+    "title": "Mortal Engines",
+    "year": 2018,
+    "runtime": 128,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "In a post-apocalyptic world where cities ride on wheels and consume each other to survive, two people meet in London and try to stop a conspiracy.",
+    "rating": 6.1,
+    "metascore": 44,
+    "directors": [
+      "Christian Rivers",
+      ""
+    ],
+    "stars": [
+      "Hera Hilmar",
+      "Robert Sheehan",
+      "Hugo Weaving",
+      "Jihae"
+    ],
+    "votes": 65575,
+    "gross": 15.95
+  },
+  {
+    "title": "Guava Island",
+    "year": 2019,
+    "runtime": 55,
+    "genre": [
+      "Comedy",
+      "Music",
+      "Thriller"
+    ],
+    "description": "A young musician seeks to hold a festival to liberate the oppressed people of Guava Island, even if only for a day.",
+    "rating": 7,
+    "metascore": null,
+    "directors": [
+      "Hiro Murai",
+      ""
+    ],
+    "stars": [
+      "Donald Glover",
+      "Rihanna",
+      "Letitia Wright",
+      "Nonso Anozie"
+    ],
+    "votes": 4660,
+    "gross": null
+  },
+  {
+    "title": "The Passion of the Christ",
+    "year": 2004,
+    "runtime": 127,
+    "genre": [
+      "Drama",
+      "",
+      ""
+    ],
+    "description": "Depicts the final twelve hours in the life of Jesus of Nazareth, on the day of his crucifixion in Jerusalem.",
+    "rating": 7.2,
+    "metascore": 47,
+    "directors": [
+      "Mel Gibson",
+      ""
+    ],
+    "stars": [
+      "Jim Caviezel",
+      "Monica Bellucci",
+      "Maia Morgenstern",
+      "Christo Jivkov"
+    ],
+    "votes": 200787,
+    "gross": 370.78
+  },
+  {
+    "title": "Good Girls",
+    "year": 2018,
+    "runtime": 43,
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Three suburban mothers suddenly find themselves in desperate circumstances and decide to stop playing it safe and risk everything to take their power back.",
+    "rating": 7.9,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Christina Hendricks",
+      "Retta",
+      "Mae Whitman",
+      "Reno Wilson"
+    ],
+    "votes": 14034,
+    "gross": null
+  },
+  {
+    "title": "Unicorn Store",
+    "year": 2017,
+    "runtime": 92,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "description": "A woman named Kit receives a mysterious invitation that would fulfill her childhood dreams.",
+    "rating": 5.5,
+    "metascore": 44,
+    "directors": [
+      "Brie Larson",
+      ""
+    ],
+    "stars": [
+      "Brie Larson",
+      "Samuel L. Jackson",
+      "Joan Cusack",
+      "Bradley Whitford"
+    ],
+    "votes": 11137,
+    "gross": null
+  },
+  {
+    "title": "Homeland",
+    "year": 2011,
+    "runtime": 55,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "A bipolar CIA operative becomes convinced a prisoner of war has been turned by al-Qaeda and is planning to carry out a terrorist attack on American soil.",
+    "rating": 8.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Claire Danes",
+      "Mandy Patinkin",
+      "Damian Lewis",
+      "Rupert Friend"
+    ],
+    "votes": 278223,
+    "gross": null
+  },
+  {
+    "title": "Knightfall",
+    "year": 2017,
+    "runtime": 60,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "A look at the final days of the Knights Templar during the 14th century.",
+    "rating": 6.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Simon Merrells",
+      "Tom Cullen",
+      "Pádraic Delaney",
+      "Julian Ovenden"
+    ],
+    "votes": 11254,
+    "gross": null
+  },
+  {
+    "title": "Brightburn",
+    "year": 2019,
+    "runtime": 90,
+    "genre": [
+      "Drama",
+      "Horror",
+      "Sci"
+    ],
+    "description": "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "David Yarovesky",
+      ""
+    ],
+    "stars": [
+      "Elizabeth Banks",
+      "Jackson A. Dunn",
+      "David Denman",
+      "Jennifer Holland"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Miss Bala",
+    "year": 2019,
+    "runtime": 104,
+    "genre": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "Gloria finds a power she never knew she had when she is drawn into a dangerous world of cross-border crime. Surviving will require all of her cunning, inventiveness, and strength. Based on the Spanish-language film.",
+    "rating": 5.4,
+    "metascore": 41,
+    "directors": [
+      "Catherine Hardwicke",
+      ""
+    ],
+    "stars": [
+      "Gina Rodriguez",
+      "Thomas Dekker",
+      "Vivian Chan",
+      "Barbarella Pardo"
+    ],
+    "votes": 2713,
+    "gross": 15.01
+  },
+  {
+    "title": "What We Do in the Shadows",
+    "year": 2019,
+    "runtime": 30,
+    "genre": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "description": "A look into the daily (or rather, nightly) lives of four vampires who've lived together for over 100 years, in Staten Island.",
+    "rating": 8.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Kayvan Novak",
+      "Matt Berry",
+      "Natasia Demetriou",
+      "Harvey Guillén"
+    ],
+    "votes": 3761,
+    "gross": null
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "runtime": 152,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "rating": 9,
+    "metascore": 84,
+    "directors": [
+      "Christopher Nolan",
+      ""
+    ],
+    "stars": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine"
+    ],
+    "votes": 2050817,
+    "gross": 534.86
+  },
+  {
+    "title": "Mad Men",
+    "year": 2007,
+    "runtime": 47,
+    "genre": [
+      "Drama",
+      "",
+      ""
+    ],
+    "description": "A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.",
+    "rating": 8.6,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Jon Hamm",
+      "Elisabeth Moss",
+      "Vincent Kartheiser",
+      "January Jones"
+    ],
+    "votes": 178854,
+    "gross": null
+  },
+  {
+    "title": "The Hustle",
+    "year": 2019,
+    "runtime": 94,
+    "genre": [
+      "Comedy",
+      "",
+      ""
+    ],
+    "description": "Anne Hathaway and Rebel Wilson star as female scam artists, one low rent and the other high class, who team up to take down the dirty rotten men who have wronged them.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Chris Addison",
+      ""
+    ],
+    "stars": [
+      "Anne Hathaway",
+      "Rebel Wilson",
+      "Tim Blake Nelson",
+      "Alex Sharp"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Parks and Recreation",
+    "year": 2009,
+    "runtime": 22,
+    "genre": [
+      "Comedy",
+      "",
+      ""
+    ],
+    "description": "The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.",
+    "rating": 8.6,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Amy Poehler",
+      "Jim O'Heir",
+      "Nick Offerman",
+      "Chris Pratt"
+    ],
+    "votes": 174249,
+    "gross": null
+  },
+  {
+    "title": "Sherlock",
+    "year": 2010,
+    "runtime": 88,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "rating": 9.1,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Benedict Cumberbatch",
+      "Martin Freeman",
+      "Una Stubbs",
+      "Rupert Graves"
+    ],
+    "votes": 697114,
+    "gross": null
+  },
+  {
+    "title": "Special",
+    "year": 2019,
+    "runtime": 15,
+    "genre": [
+      "Comedy",
+      "",
+      ""
+    ],
+    "description": "A young gay man with cerebral palsy branches out from his insular existence in hopes of finally going after the life he wants.",
+    "rating": 7.8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Ryan O'Connell",
+      "Jessica Hecht",
+      "Punam Patel",
+      "Marla Mindelle"
+    ],
+    "votes": 3043,
+    "gross": null
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "runtime": 136,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+    "rating": 7.8,
+    "metascore": 70,
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "stars": [
+      "Chris Evans",
+      "Samuel L. Jackson",
+      "Scarlett Johansson",
+      "Robert Redford"
+    ],
+    "votes": 657521,
+    "gross": 259.77
+  },
+  {
+    "title": "Venom",
+    "year": 2018,
+    "runtime": 112,
+    "genre": [
+      "Action",
+      "Sci",
+      ""
+    ],
+    "description": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+    "rating": 6.8,
+    "metascore": 35,
+    "directors": [
+      "Ruben Fleischer",
+      ""
+    ],
+    "stars": [
+      "Tom Hardy",
+      "Michelle Williams",
+      "Riz Ahmed",
+      "Scott Haze"
+    ],
+    "votes": 266290,
+    "gross": 213.52
+  },
+  {
+    "title": "The Upside",
+    "year": 2017,
+    "runtime": 126,
+    "genre": [
+      "Comedy",
+      "Drama",
+      ""
+    ],
+    "description": "A comedic look at the relationship between a wealthy man with quadriplegia and an unemployed man with a criminal record who's hired to help him.",
+    "rating": 6.6,
+    "metascore": 46,
+    "directors": [
+      "Neil Burger",
+      ""
+    ],
+    "stars": [
+      "Kevin Hart",
+      "Bryan Cranston",
+      "Nicole Kidman",
+      "Aja Naomi King"
+    ],
+    "votes": 19026,
+    "gross": 108.25
+  },
+  {
+    "title": "Vice",
+    "year": null,
+    "runtime": 132,
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "description": "The story of Dick Cheney, an unassuming bureaucratic Washington insider, who quietly wielded immense power as Vice President to George W. Bush, reshaping the country and the globe in ways that we still feel today.",
+    "rating": 7.2,
+    "metascore": 61,
+    "directors": [
+      "Adam McKay",
+      ""
+    ],
+    "stars": [
+      "Christian Bale",
+      "Amy Adams",
+      "Steve Carell",
+      "Sam Rockwell"
+    ],
+    "votes": 66280,
+    "gross": 47.84
+  },
+  {
+    "title": "Schitt's Creek",
+    "year": 2015,
+    "runtime": 22,
+    "genre": [
+      "Comedy",
+      "",
+      ""
+    ],
+    "description": "When rich video-store magnate Johnny Rose and his family suddenly find themselves broke, they are forced to leave their pampered lives to regroup in Schitt's Creek.",
+    "rating": 8.2,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Eugene Levy",
+      "Catherine O'Hara",
+      "Dan Levy",
+      "Annie Murphy"
+    ],
+    "votes": 16790,
+    "gross": null
+  },
+  {
+    "title": "The Good Fight",
+    "year": 2017,
+    "runtime": 45,
+    "genre": [
+      "Crime",
+      "Drama",
+      ""
+    ],
+    "description": "When Diane Lockhart's life savings are lost, she must start from scratch at a new firm.",
+    "rating": 8.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Christine Baranski",
+      "Rose Leslie",
+      "Delroy Lindo",
+      "Cush Jumbo"
+    ],
+    "votes": 13934,
+    "gross": null
+  },
+  {
+    "title": "How I Met Your Mother",
+    "year": 2005,
+    "runtime": 22,
+    "genre": [
+      "Comedy",
+      "Romance",
+      ""
+    ],
+    "description": "A father recounts to his children, through a series of flashbacks, the journey he and his four best friends took leading up to him meeting their mother.",
+    "rating": 8.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Josh Radnor",
+      "Jason Segel",
+      "Cobie Smulders",
+      "Neil Patrick Harris"
+    ],
+    "votes": 536718,
+    "gross": null
+  },
+  {
+    "title": "The Last Kingdom",
+    "year": 2015,
+    "runtime": 60,
+    "genre": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "description": "As Alfred the Great defends his kingdom from Norse invaders, Uhtred - born a Saxon but raised by Vikings - seeks to claim his ancestral birthright.",
+    "rating": 8.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Alexander Dreymon",
+      "Ian Hart",
+      "David Dawson",
+      "Eliza Butterworth"
+    ],
+    "votes": 52552,
+    "gross": null
+  },
+  {
+    "title": "The Resident",
+    "year": 2018,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "",
+      ""
+    ],
+    "description": "A group of doctors at Chastain Memorial Hospital face personal and professional challenges on a daily basis.",
+    "rating": 7.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Matt Czuchry",
+      "Emily VanCamp",
+      "Manish Dayal",
+      "Shaunette Renée Wilson"
+    ],
+    "votes": 12983,
+    "gross": null
+  },
+  {
+    "title": "Doctor Who",
+    "year": 2005,
+    "runtime": 45,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "description": "The further adventures in time and space of the alien adventurer known as the Doctor and their companions from planet Earth.",
+    "rating": 8.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Jodie Whittaker",
+      "Peter Capaldi",
+      "Pearl Mackie",
+      "Matt Smith"
+    ],
+    "votes": 182987,
+    "gross": null
+  },
+  {
+    "title": "The White Crow",
+    "year": 2018,
+    "runtime": 127,
+    "genre": [
+      "Biography",
+      "Drama",
+      ""
+    ],
+    "description": "The story of Rudolf Nureyev's defection to the West.",
+    "rating": 6.4,
+    "metascore": 61,
+    "directors": [
+      "Ralph Fiennes",
+      ""
+    ],
+    "stars": [
+      "Oleg Ivenko",
+      "Ralph Fiennes",
+      "Louis Hofmann",
+      "Adèle Exarchopoulos"
+    ],
+    "votes": 852,
+    "gross": 0.11
+  },
+  {
+    "title": "Better Call Saul",
+    "year": 2015,
+    "runtime": 46,
+    "genre": [
+      "Crime",
+      "Drama",
+      ""
+    ],
+    "description": "The trials and tribulations of criminal lawyer, Jimmy McGill, in the time leading up to establishing his strip-mall law office in Albuquerque, New Mexico.",
+    "rating": 8.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Bob Odenkirk",
+      "Rhea Seehorn",
+      "Jonathan Banks",
+      "Patrick Fabian"
+    ],
+    "votes": 245248,
+    "gross": null
+  },
+  {
+    "title": "New Amsterdam",
+    "year": 2018,
+    "runtime": 43,
+    "genre": [
+      "Drama",
+      "",
+      ""
+    ],
+    "description": "A new medical director breaks the rules to heal the system at America's oldest public hospital.",
+    "rating": 8.1,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Ryan Eggold",
+      "Janet Montgomery",
+      "Freema Agyeman",
+      "Jocko Sims"
+    ],
+    "votes": 8231,
+    "gross": null
+  },
+  {
+    "title": "Rambo V: Last Blood",
+    "year": 2019,
+    "runtime": null,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "description": "Rambo goes up against a Mexican cartel in what's reported to be his last adventure.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Adrian Grunberg",
+      ""
+    ],
+    "stars": [
+      "Sylvester Stallone",
+      "Paz Vega",
+      "Óscar Jaenada",
+      "Louis Mandylor"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Deadwood",
+    "year": 2004,
+    "runtime": 55,
+    "genre": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "description": "A show set in the late 1800s, revolving around the characters of Deadwood, South Dakota; a town of deep corruption and crime.",
+    "rating": 8.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Timothy Olyphant",
+      "Ian McShane",
+      "Molly Parker",
+      "Brad Dourif"
+    ],
+    "votes": 81747,
+    "gross": null
+  },
+  {
+    "title": "Lo spietato",
+    "year": 2019,
+    "runtime": 90,
+    "genre": [
+      "Crime",
+      "Drama",
+      ""
+    ],
+    "description": "A rebellious teen grows up to become one of Milan's most ambitious criminals during the golden years of the 'ndrangheta Mafia in the 1980s.",
+    "rating": 6.3,
+    "metascore": null,
+    "directors": [
+      "Renato De Maria",
+      ""
+    ],
+    "stars": [
+      "Riccardo Scamarcio",
+      "Sara Serraiocco",
+      "Alessio Praticò",
+      "Alessandro Tedeschi"
+    ],
+    "votes": 1787,
+    "gross": null
+  },
+  {
+    "title": "Ocean's Eight",
+    "year": 2018,
+    "runtime": 110,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "description": "Debbie Ocean gathers an all-female crew to attempt an impossible heist at New York City's yearly Met Gala.",
+    "rating": 6.2,
+    "metascore": 61,
+    "directors": [
+      "Gary Ross",
+      ""
+    ],
+    "stars": [
+      "Sandra Bullock",
+      "Cate Blanchett",
+      "Anne Hathaway",
+      "Mindy Kaling"
+    ],
+    "votes": 140364,
+    "gross": 139.38
+  },
+  {
+    "title": "Midsomer Murders",
+    "year": 1997,
+    "runtime": 90,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "A veteran DCI and his young sergeant investigate murders around the regional community of Midsomer County.",
+    "rating": 7.8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "John Nettles",
+      "Jane Wymark",
+      "Barry Jackson",
+      "Jason Hughes"
+    ],
+    "votes": 19596,
+    "gross": null
+  },
+  {
+    "title": "The Incredible Hulk",
+    "year": 2008,
+    "runtime": 112,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into, whenever he loses his temper.",
+    "rating": 6.7,
+    "metascore": 61,
+    "directors": [
+      "Louis Leterrier",
+      ""
+    ],
+    "stars": [
+      "Edward Norton",
+      "Liv Tyler",
+      "Tim Roth",
+      "William Hurt"
+    ],
+    "votes": 397527,
+    "gross": 134.52
+  },
+  {
+    "title": "The Vampire Diaries",
+    "year": 2009,
+    "runtime": 43,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "description": "The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.",
+    "rating": 7.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Nina Dobrev",
+      "Paul Wesley",
+      "Ian Somerhalder",
+      "Kat Graham"
+    ],
+    "votes": 261089,
+    "gross": null
+  },
+  {
+    "title": "Chicago P.D.",
+    "year": 2014,
+    "runtime": 43,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Follows District 21 of the Chicago Police Department, which is made up of two distinctly different groups: the uniformed cops and the Intelligence Unit.",
+    "rating": 8.1,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Jason Beghe",
+      "Jesse Lee Soffer",
+      "Patrick John Flueger",
+      "Marina Squerciati"
+    ],
+    "votes": 22191,
+    "gross": null
+  },
+  {
+    "title": "Fleabag",
+    "year": 2016,
+    "runtime": 27,
+    "genre": [
+      "Comedy",
+      "Drama",
+      ""
+    ],
+    "description": "A six-part comedy series adapted from the award-winning play about a young woman trying to cope with life in London whilst coming to terms with a recent tragedy.",
+    "rating": 8.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Phoebe Waller-Bridge",
+      "Sian Clifford",
+      "Olivia Colman",
+      "Jenny Rainsford"
+    ],
+    "votes": 16805,
+    "gross": null
+  },
+  {
+    "title": "About Time",
+    "year": null,
+    "runtime": 123,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "description": "At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think.",
+    "rating": 7.8,
+    "metascore": 55,
+    "directors": [
+      "Richard Curtis",
+      ""
+    ],
+    "stars": [
+      "Domhnall Gleeson",
+      "Rachel McAdams",
+      "Bill Nighy",
+      "Lydia Wilson"
+    ],
+    "votes": 259771,
+    "gross": 15.32
+  },
+  {
+    "title": "Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)",
+    "year": 2020,
+    "runtime": null,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "description": "After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Cathy Yan",
+      ""
+    ],
+    "stars": [
+      "Margot Robbie",
+      "Mary Elizabeth Winstead",
+      "Ewan McGregor",
+      "Jurnee Smollett-Bell"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Orange Is the New Black",
+    "year": 2013,
+    "runtime": 59,
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+    "rating": 8.1,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Taylor Schilling",
+      "Danielle Brooks",
+      "Taryn Manning",
+      "Emma Myles"
+    ],
+    "votes": 253141,
+    "gross": null
+  },
+  {
+    "title": "SEAL Team",
+    "year": 2017,
+    "runtime": 43,
+    "genre": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "description": "The lives of the elite Navy S.E.A.L.s as they train, plan and execute the most dangerous, high-stakes missions our country can ask.",
+    "rating": 7.2,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "David Boreanaz",
+      "Max Thieriot",
+      "Jessica Paré",
+      "Neil Brown Jr."
+    ],
+    "votes": 10325,
+    "gross": null
+  },
+  {
+    "title": "Ramy",
+    "year": 2019,
+    "runtime": 30,
+    "genre": [
+      "Comedy",
+      "",
+      ""
+    ],
+    "description": "",
+    "rating": 8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Ramy Youssef",
+      "Amr Waked",
+      "Mohammed Amer",
+      "Hiam Abbass"
+    ],
+    "votes": 897,
+    "gross": null
+  },
+  {
+    "title": "Titans",
+    "year": null,
+    "runtime": 45,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "A team of young superheroes led by Nightwing (formerly Batman's first Robin) form to combat evil and other perils.",
+    "rating": 8.1,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Teagan Croft",
+      "Brenton Thwaites",
+      "Anna Diop",
+      "Ryan Potter"
+    ],
+    "votes": 36374,
+    "gross": null
+  },
+  {
+    "title": "Doctor Strange",
+    "year": 2016,
+    "runtime": 115,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+    "rating": 7.5,
+    "metascore": 72,
+    "directors": [
+      "Scott Derrickson",
+      ""
+    ],
+    "stars": [
+      "Benedict Cumberbatch",
+      "Chiwetel Ejiofor",
+      "Rachel McAdams",
+      "Benedict Wong"
+    ],
+    "votes": 504605,
+    "gross": 232.64
+  },
+  {
+    "title": "Bones",
+    "year": 2005,
+    "runtime": 40,
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Forensic anthropologist Dr. Temperance \"Bones\" Brennan and cocky F.B.I. Special Agent Seeley Booth build a team to investigate murders. Quite often, there isn't more to examine than rotten flesh or mere bones.",
+    "rating": 7.9,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Emily Deschanel",
+      "David Boreanaz",
+      "Michaela Conlin",
+      "T.J. Thyne"
+    ],
+    "votes": 129504,
+    "gross": null
+  },
+  {
+    "title": "The Favourite",
+    "year": 2018,
+    "runtime": 119,
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "description": "In early 18th century England, a frail Queen Anne occupies the throne and her close friend, Lady Sarah, governs the country in her stead. When a new servant, Abigail, arrives, her charm endears her to Sarah.",
+    "rating": 7.6,
+    "metascore": 90,
+    "directors": [
+      "Yorgos Lanthimos",
+      ""
+    ],
+    "stars": [
+      "Olivia Colman",
+      "Emma Stone",
+      "Rachel Weisz",
+      "Nicholas Hoult"
+    ],
+    "votes": 109335,
+    "gross": 34.24
+  },
+  {
+    "title": "A Quiet Place",
+    "year": 2018,
+    "runtime": 90,
+    "genre": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "description": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.",
+    "rating": 7.6,
+    "metascore": 82,
+    "directors": [
+      "John Krasinski",
+      ""
+    ],
+    "stars": [
+      "Emily Blunt",
+      "John Krasinski",
+      "Millicent Simmonds",
+      "Noah Jupe"
+    ],
+    "votes": 297605,
+    "gross": 188.02
+  },
+  {
+    "title": "The Kid Who Would Be King",
+    "year": 2019,
+    "runtime": 120,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "description": "A band of kids embark on an epic quest to thwart a medieval menace.",
+    "rating": 6,
+    "metascore": 66,
+    "directors": [
+      "Joe Cornish",
+      ""
+    ],
+    "stars": [
+      "Louis Ashbourne Serkis",
+      "Denise Gough",
+      "Dean Chaumoo",
+      "Tom Taylor"
+    ],
+    "votes": 6672,
+    "gross": 16.79
+  },
+  {
+    "title": "Dragged Across Concrete",
+    "year": 2018,
+    "runtime": 159,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Once two overzealous cops get suspended from the force, they must delve into the criminal underworld to get their proper compensation.",
+    "rating": 7.1,
+    "metascore": 60,
+    "directors": [
+      "S. Craig Zahler",
+      ""
+    ],
+    "stars": [
+      "Mel Gibson",
+      "Vince Vaughn",
+      "Tory Kittles",
+      "Michael Jai White"
+    ],
+    "votes": 12662,
+    "gross": null
+  },
+  {
+    "title": "Thor: The Dark World",
+    "year": 2013,
+    "runtime": 112,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "When Dr. Jane Foster gets cursed with a powerful entity known as the Aether, Thor is heralded of the cosmic event known as the Convergence and the genocidal Dark Elves.",
+    "rating": 6.9,
+    "metascore": 54,
+    "directors": [
+      "Alan Taylor",
+      ""
+    ],
+    "stars": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Tom Hiddleston",
+      "Stellan Skarsgård"
+    ],
+    "votes": 534641,
+    "gross": 206.36
+  },
+  {
+    "title": "You",
+    "year": 2018,
+    "runtime": 45,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "description": "A clever bookstore manager relies on his savvy Internet know-how to make the woman of his dreams fall in love with him.",
+    "rating": 7.8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Penn Badgley",
+      "Ambyr Childers",
+      "Elizabeth Lail",
+      "Luca Padovan"
+    ],
+    "votes": 58490,
+    "gross": null
+  },
+  {
+    "title": "Shadowhunters: The Mortal Instruments",
+    "year": 2016,
+    "runtime": 42,
+    "genre": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "description": "After her mother disappears, Clary must venture into the dark world of demon hunting, and embrace her new role among the Shadowhunters.",
+    "rating": 6.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Katherine McNamara",
+      "Dominic Sherwood",
+      "Alberto Rosende",
+      "Matthew Daddario"
+    ],
+    "votes": 44422,
+    "gross": null
+  },
+  {
+    "title": "Solo: A Star Wars Story",
+    "year": 2018,
+    "runtime": 135,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
+    "rating": 7,
+    "metascore": 62,
+    "directors": [
+      "Ron Howard",
+      ""
+    ],
+    "stars": [
+      "Alden Ehrenreich",
+      "Woody Harrelson",
+      "Emilia Clarke",
+      "Donald Glover"
+    ],
+    "votes": 220422,
+    "gross": 213.77
+  },
+  {
+    "title": "The Greatest Showman",
+    "year": 2017,
+    "runtime": 105,
+    "genre": [
+      "Biography",
+      "Drama",
+      "Musical"
+    ],
+    "description": "Celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.",
+    "rating": 7.6,
+    "metascore": 48,
+    "directors": [
+      "Michael Gracey",
+      ""
+    ],
+    "stars": [
+      "Hugh Jackman",
+      "Michelle Williams",
+      "Zac Efron",
+      "Zendaya"
+    ],
+    "votes": 197076,
+    "gross": 174.34
+  },
+  {
+    "title": "Rick and Morty",
+    "year": 2013,
+    "runtime": 23,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
+    "rating": 9.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Justin Roiland",
+      "Chris Parnell",
+      "Spencer Grammer",
+      "Sarah Chalke"
+    ],
+    "votes": 263404,
+    "gross": null
+  },
+  {
+    "title": "Fargo",
+    "year": 2014,
+    "runtime": 53,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "Various chronicles of deception, intrigue and murder in and around frozen Minnesota. Yet all of these tales mysteriously lead back one way or another to Fargo, North Dakota.",
+    "rating": 9,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Billy Bob Thornton",
+      "Martin Freeman",
+      "Allison Tolman",
+      "Colin Hanks"
+    ],
+    "votes": 269181,
+    "gross": null
+  },
+  {
+    "title": "Whiskey Cavalier",
+    "year": 2019,
+    "runtime": 60,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "An FBI agent and his new partner, a CIA operative, embark on missions to save the world, but have to put up with each other first.",
+    "rating": 7.1,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Scott Foley",
+      "Lauren Cohan",
+      "Ana Ortiz",
+      "Tyler James Williams"
+    ],
+    "votes": 4508,
+    "gross": null
+  },
+  {
+    "title": "Hotel Mumbai",
+    "year": 2018,
+    "runtime": 123,
+    "genre": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "description": "The true story of the Taj Hotel terrorist attack in Mumbai. Hotel staff risk their lives to keep everyone safe as people make unthinkable sacrifices to protect themselves and their families.",
+    "rating": 7.8,
+    "metascore": 64,
+    "directors": [
+      "Anthony Maras",
+      ""
+    ],
+    "stars": [
+      "Dev Patel",
+      "Armie Hammer",
+      "Nazanin Boniadi",
+      "Anupam Kher"
+    ],
+    "votes": 5342,
+    "gross": 9.38
+  },
+  {
+    "title": "The Wire",
+    "year": 2002,
+    "runtime": 59,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "Baltimore drug scene, seen through the eyes of drug dealers and law enforcement.",
+    "rating": 9.3,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Dominic West",
+      "Lance Reddick",
+      "Sonja Sohn",
+      "Wendell Pierce"
+    ],
+    "votes": 242648,
+    "gross": null
+  },
+  {
+    "title": "Lost",
+    "year": 2004,
+    "runtime": 44,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "description": "The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.",
+    "rating": 8.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Jorge Garcia",
+      "Josh Holloway",
+      "Yunjin Kim",
+      "Evangeline Lilly"
+    ],
+    "votes": 452985,
+    "gross": null
+  },
+  {
+    "title": "The Lego Movie 2: The Second Part",
+    "year": 2019,
+    "runtime": 107,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "description": "It's been five years since everything was awesome and the citizens are facing a huge new threat: Lego Duplo invaders from outer space, wrecking everything faster than they can rebuild.",
+    "rating": 6.8,
+    "metascore": 65,
+    "directors": [
+      "Mike Mitchell",
+      ""
+    ],
+    "stars": [
+      "Chris Pratt",
+      "Elizabeth Banks",
+      "Will Arnett",
+      "Tiffany Haddish"
+    ],
+    "votes": 25998,
+    "gross": 105.73
+  },
+  {
+    "title": "Ant-Man",
+    "year": 2015,
+    "runtime": 117,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.",
+    "rating": 7.3,
+    "metascore": 64,
+    "directors": [
+      "Peyton Reed",
+      ""
+    ],
+    "stars": [
+      "Paul Rudd",
+      "Michael Douglas",
+      "Corey Stoll",
+      "Evangeline Lilly"
+    ],
+    "votes": 492804,
+    "gross": 180.2
+  },
+  {
+    "title": "New Girl",
+    "year": 2011,
+    "runtime": 22,
+    "genre": [
+      "Comedy",
+      "",
+      ""
+    ],
+    "description": "After a bad break-up, Jess, an offbeat young woman, moves into an apartment loft with three single men. Although they find her behavior very unusual, the men support her - most of the time.",
+    "rating": 7.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Zooey Deschanel",
+      "Jake Johnson",
+      "Max Greenfield",
+      "Hannah Simone"
+    ],
+    "votes": 169535,
+    "gross": null
+  },
+  {
+    "title": "Missing Link",
+    "year": 2019,
+    "runtime": 94,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "Mr. Link recruits explorer Sir Lionel Frost to help find his long-lost relatives in the fabled valley of Shangri-La. Along with adventurer Adelina Fortnight, this trio of explorers travel the world to help their new friend.",
+    "rating": 7,
+    "metascore": 68,
+    "directors": [
+      "Chris Butler",
+      ""
+    ],
+    "stars": [
+      "Hugh Jackman",
+      "David Walliams",
+      "Stephen Fry",
+      "Matt Lucas"
+    ],
+    "votes": 2811,
+    "gross": 15.86
+  },
+  {
+    "title": "Prison Break",
+    "year": 2005,
+    "runtime": 44,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside.",
+    "rating": 8.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Dominic Purcell",
+      "Wentworth Miller",
+      "Amaury Nolasco",
+      "Robert Knepper"
+    ],
+    "votes": 427502,
+    "gross": null
+  },
+  {
+    "title": "Ready Player One",
+    "year": 2018,
+    "runtime": 140,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune.",
+    "rating": 7.5,
+    "metascore": 64,
+    "directors": [
+      "Steven Spielberg",
+      ""
+    ],
+    "stars": [
+      "Tye Sheridan",
+      "Olivia Cooke",
+      "Ben Mendelsohn",
+      "Lena Waithe"
+    ],
+    "votes": 296455,
+    "gross": 137.69
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "runtime": 152,
+    "genre": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+    "rating": 7.6,
+    "metascore": 64,
+    "directors": [
+      "Chris Columbus",
+      ""
+    ],
+    "stars": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Richard Harris",
+      "Maggie Smith"
+    ],
+    "votes": 567107,
+    "gross": 317.58
+  },
+  {
+    "title": "The Irishman",
+    "year": 2019,
+    "runtime": null,
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "description": "A mob hitman recalls his possible involvement with the slaying of Jimmy Hoffa.",
+    "rating": null,
+    "metascore": null,
+    "directors": [
+      "Martin Scorsese",
+      ""
+    ],
+    "stars": [
+      "Stephen Graham",
+      "Robert De Niro",
+      "Bobby Cannavale",
+      "Al Pacino"
+    ],
+    "votes": null,
+    "gross": null
+  },
+  {
+    "title": "Alita: Battle Angel",
+    "year": 2019,
+    "runtime": 122,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci"
+    ],
+    "description": "A deactivated female cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is.",
+    "rating": 7.6,
+    "metascore": 54,
+    "directors": [
+      "Robert Rodriguez",
+      ""
+    ],
+    "stars": [
+      "Rosa Salazar",
+      "Christoph Waltz",
+      "Jennifer Connelly",
+      "Mahershala Ali"
+    ],
+    "votes": 85445,
+    "gross": 85.67
+  },
+  {
+    "title": "Roswell, New Mexico",
+    "year": 2019,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "Romance",
+      "Sci"
+    ],
+    "description": "A reimagining of Roswell, which centers on the residents of New Mexico, where aliens live undercover among humans.",
+    "rating": 5.9,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Jeanine Mason",
+      "Nathan Parsons",
+      "Michael Vlamis",
+      "Lily Cowles"
+    ],
+    "votes": 4984,
+    "gross": null
+  },
+  {
+    "title": "Dexter",
+    "year": 2006,
+    "runtime": 53,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers.",
+    "rating": 8.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Michael C. Hall",
+      "Jennifer Carpenter",
+      "David Zayas",
+      "James Remar"
+    ],
+    "votes": 594034,
+    "gross": null
+  },
+  {
+    "title": "La casa de papel",
+    "year": 2017,
+    "runtime": 70,
+    "genre": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "description": "A group of very peculiar robbers assault the Factory of Moneda and Timbre to carry out the most perfect robbery in the history of Spain and take home 2.4 billion euros.",
+    "rating": 8.6,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Úrsula Corberó",
+      "Itziar Ituño",
+      "Álvaro Morte",
+      "Alba Flores"
+    ],
+    "votes": 123542,
+    "gross": null
+  },
+  {
+    "title": "Sons of Anarchy",
+    "year": 2008,
+    "runtime": 45,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A biker struggles to balance being a father and being involved in an outlaw motorcycle club.",
+    "rating": 8.6,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Charlie Hunnam",
+      "Katey Sagal",
+      "Mark Boone Junior",
+      "Kim Coates"
+    ],
+    "votes": 229063,
+    "gross": null
+  },
+  {
+    "title": "Bodyguard",
+    "year": 2018,
+    "runtime": 60,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A contemporary thriller featuring the Royalty and Specialist Protection Branch of London's Metropolitan Police Service.",
+    "rating": 8.2,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Richard Madden",
+      "Sophie Rundle",
+      "Vincent Franklin",
+      "Ash Tandon"
+    ],
+    "votes": 62642,
+    "gross": null
+  },
+  {
+    "title": "Thor",
+    "year": 2011,
+    "runtime": 115,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+    "rating": 7,
+    "metascore": 57,
+    "directors": [
+      "Kenneth Branagh",
+      ""
+    ],
+    "stars": [
+      "Chris Hemsworth",
+      "Anthony Hopkins",
+      "Natalie Portman",
+      "Tom Hiddleston"
+    ],
+    "votes": 674994,
+    "gross": 181.03
+  },
+  {
+    "title": "The Expanse",
+    "year": 2015,
+    "runtime": 60,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci"
+    ],
+    "description": "A police detective in the asteroid belt, the first officer of an interplanetary ice freighter and an earth-bound United Nations executive slowly discover a vast conspiracy that threatens the Earth's rebellious colony on the asteroid belt.",
+    "rating": 8.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Steven Strait",
+      "Cas Anvar",
+      "Dominique Tipper",
+      "Wes Chatham"
+    ],
+    "votes": 68773,
+    "gross": null
+  },
+  {
+    "title": "Lykke-Per",
+    "year": 2018,
+    "runtime": 162,
+    "genre": [
+      "Drama",
+      "",
+      ""
+    ],
+    "description": "",
+    "rating": 7.3,
+    "metascore": null,
+    "directors": [
+      "Bille August",
+      ""
+    ],
+    "stars": [
+      "Esben Smed",
+      "Katrine Greis-Rosenthal",
+      "Benjamin Kitter",
+      "Julie Christiansen"
+    ],
+    "votes": 1570,
+    "gross": null
+  },
+  {
+    "title": "Hawaii Five-0",
+    "year": 2010,
+    "runtime": 42,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Steve McGarrett returns home to Oahu, in order to find his father's killer. The Governor offers him the chance to run his own task force (Five-0).",
+    "rating": 7.4,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Alex O'Loughlin",
+      "Scott Caan",
+      "Taylor Wily",
+      "Daniel Dae Kim"
+    ],
+    "votes": 61095,
+    "gross": null
+  },
+  {
+    "title": "The Intruder",
+    "year": null,
+    "runtime": 102,
+    "genre": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "description": "A young married couple buy a beautiful house on several acres of land only to find out that the man they bought it from refuses to let go of the property.",
+    "rating": 5.3,
+    "metascore": 38,
+    "directors": [
+      "Deon Taylor",
+      ""
+    ],
+    "stars": [
+      "Dennis Quaid",
+      "Meagan Good",
+      "Debs Howard",
+      "Michael Ealy"
+    ],
+    "votes": 470,
+    "gross": null
+  },
+  {
+    "title": "Wonder Woman",
+    "year": 2017,
+    "runtime": 141,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+    "rating": 7.5,
+    "metascore": 76,
+    "directors": [
+      "Patty Jenkins",
+      ""
+    ],
+    "stars": [
+      "Gal Gadot",
+      "Chris Pine",
+      "Robin Wright",
+      "Lucy Davis"
+    ],
+    "votes": 481549,
+    "gross": 412.56
+  },
+  {
+    "title": "The Crown",
+    "year": 2016,
+    "runtime": 58,
+    "genre": [
+      "Drama",
+      "History",
+      ""
+    ],
+    "description": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+    "rating": 8.7,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Claire Foy",
+      "Matt Smith",
+      "Olivia Colman",
+      "Tobias Menzies"
+    ],
+    "votes": 80878,
+    "gross": null
+  },
+  {
+    "title": "It's Always Sunny in Philadelphia",
+    "year": 2005,
+    "runtime": 22,
+    "genre": [
+      "Comedy",
+      "",
+      ""
+    ],
+    "description": "Five friends with big egos and slightly arrogant attitudes are the proprietors of an Irish pub in Philadelphia.",
+    "rating": 8.8,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Charlie Day",
+      "Glenn Howerton",
+      "Rob McElhenney",
+      "Kaitlin Olson"
+    ],
+    "votes": 169386,
+    "gross": null
+  },
+  {
+    "title": "Five Feet Apart",
+    "year": 2019,
+    "runtime": 116,
+    "genre": [
+      "Drama",
+      "Romance",
+      ""
+    ],
+    "description": "A pair of teenagers with cystic fibrosis meet in a hospital and fall in love, though their disease means they must avoid close physical contact.",
+    "rating": 7.1,
+    "metascore": 53,
+    "directors": [
+      "Justin Baldoni",
+      ""
+    ],
+    "stars": [
+      "Haley Lu Richardson",
+      "Cole Sprouse",
+      "Moises Arias",
+      "Kimberly Hebert Gregory"
+    ],
+    "votes": 5892,
+    "gross": 45.45
+  },
+  {
+    "title": "The Bay",
+    "year": 2019,
+    "runtime": 60,
+    "genre": [
+      "Crime",
+      "Drama",
+      ""
+    ],
+    "description": "Detective Sergeant Lisa Armstrong investigates a missing person in Morecambe Bay.",
+    "rating": 6.6,
+    "metascore": null,
+    "directors": [
+      "",
+      ""
+    ],
+    "stars": [
+      "Morven Christie",
+      "Lindsey Coulson",
+      "Imogen King",
+      "Art Parkinson"
+    ],
+    "votes": 812,
+    "gross": null
+  },
+  {
+    "title": "Unbreakable",
+    "year": 2000,
+    "runtime": 106,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci"
+    ],
+    "description": "A man learns something extraordinary about himself after a devastating accident.",
+    "rating": 7.3,
+    "metascore": 62,
+    "directors": [
+      "M. Night Shyamalan",
+      ""
+    ],
+    "stars": [
+      "Bruce Willis",
+      "Samuel L. Jackson",
+      "Robin Wright",
+      "Spencer Treat Clark"
+    ],
+    "votes": 347824,
+    "gross": 95.01
+  },
+  {
+    "title": "The Karate Kid",
+    "year": 1984,
+    "runtime": 126,
+    "genre": [
+      "Action",
+      "Drama",
+      "Family"
+    ],
+    "description": "A martial arts master agrees to teach karate to a bullied teenager.",
+    "rating": 7.2,
+    "metascore": 60,
+    "directors": [
+      "John G. Avildsen",
+      ""
+    ],
+    "stars": [
+      "Ralph Macchio",
+      "Pat Morita",
+      "Elisabeth Shue",
+      "Martin Kove"
+    ],
+    "votes": 157307,
+    "gross": 90.82
+  }
+]
